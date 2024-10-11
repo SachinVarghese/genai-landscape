@@ -1,0 +1,4001 @@
+item:
+- Name: generative-ai-for-beginners
+  category: Tutorials
+  repo_url: https://github.com/microsoft/generative-ai-for-beginners
+  sub-category: .nan
+- Name: ollama
+  category: AI engineering
+  repo_url: https://github.com/jmorganca/ollama
+  sub-category: AI interface
+- Name: kotaemon
+  category: AI engineering
+  repo_url: https://github.com/Cinnamon/kotaemon
+  sub-category: AIE framework
+- Name: LLMs-from-scratch
+  category: Tutorials
+  repo_url: https://github.com/rasbt/LLMs-from-scratch
+  sub-category: .nan
+- Name: dify
+  category: AI engineering
+  repo_url: https://github.com/langgenius/dify
+  sub-category: AIE framework
+- Name: ragflow
+  category: AI engineering
+  repo_url: https://github.com/infiniflow/ragflow
+  sub-category: AIE framework
+- Name: composio
+  category: AI engineering
+  repo_url: https://github.com/composiohq/composio
+  sub-category: Agent
+- Name: langflow
+  category: AI engineering
+  repo_url: https://github.com/logspace-ai/langflow
+  sub-category: AIE framework
+- Name: continue
+  category: Applications
+  repo_url: https://github.com/continuedev/continue
+  sub-category: Coding
+- Name: ComfyUI
+  category: AI engineering
+  repo_url: https://github.com/comfyanonymous/ComfyUI
+  sub-category: AIE framework
+- Name: LLaMA-Factory
+  category: Model development
+  repo_url: https://github.com/hiyouga/LLaMA-Factory
+  sub-category: Modeling & training
+- Name: gradio
+  category: AI engineering
+  repo_url: https://github.com/gradio-app/gradio
+  sub-category: AI interface
+- Name: facefusion
+  category: Applications
+  repo_url: https://github.com/facefusion/facefusion
+  sub-category: Image production
+- Name: whisper
+  category: Model repo
+  repo_url: https://github.com/openai/whisper
+  sub-category: .nan
+- Name: langchain
+  category: AI engineering
+  repo_url: https://github.com/langchain-ai/langchain
+  sub-category: AIE framework
+- Name: llama.cpp
+  category: Model development
+  repo_url: https://github.com/ggerganov/llama.cpp
+  sub-category: Inference optimization
+- Name: GPT-SoVITS
+  category: AI engineering
+  repo_url: https://github.com/RVC-Boss/GPT-SoVITS
+  sub-category: AI interface
+- Name: alphafold
+  category: Model repo
+  repo_url: https://github.com/google-deepmind/alphafold
+  sub-category: Multimodal
+- Name: gpt4all
+  category: AI engineering
+  repo_url: https://github.com/nomic-ai/gpt4all
+  sub-category: AIE framework
+- Name: stable-diffusion-webui
+  category: Applications
+  repo_url: https://github.com/AUTOMATIC1111/stable-diffusion-webui
+  sub-category: Image production
+- Name: CLIP
+  category: Model repo
+  repo_url: https://github.com/openai/CLIP
+  sub-category: Multimodal
+- Name: transformers
+  category: Model development
+  repo_url: https://github.com/huggingface/transformers
+  sub-category: Modeling & training
+- Name: llama_index
+  category: AI engineering
+  repo_url: https://github.com/run-llama/llama_index
+  sub-category: AIE framework
+- Name: vllm
+  category: Infrastructure
+  repo_url: https://github.com/vllm-project/vllm
+  sub-category: Serving
+- Name: unsloth
+  category: Model development
+  repo_url: https://github.com/unslothai/unsloth
+  sub-category: Inference optimization
+- Name: anything-llm
+  category: Applications
+  repo_url: https://github.com/Mintplex-Labs/anything-llm
+  sub-category: Info aggregation
+- Name: gpt-pilot
+  category: Applications
+  repo_url: https://github.com/Pythagora-io/gpt-pilot
+  sub-category: Coding
+- Name: PaddleOCR
+  category: Model repo
+  repo_url: https://github.com/PaddlePaddle/PaddleOCR
+  sub-category: Multimodal
+- Name: OpenDevin
+  category: Applications
+  repo_url: https://github.com/OpenDevin/OpenDevin
+  sub-category: Coding
+- Name: ChatGPT-Next-Web
+  category: AI engineering
+  repo_url: https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web
+  sub-category: AI interface
+- Name: CopilotKit
+  category: AI engineering
+  repo_url: https://github.com/CopilotKit/CopilotKit
+  sub-category: AI interface
+- Name: aider
+  category: Applications
+  repo_url: https://github.com/paul-gauthier/aider
+  sub-category: Coding
+- Name: AutoGPT
+  category: AI engineering
+  repo_url: https://github.com/Significant-Gravitas/AutoGPT
+  sub-category: Agent
+- Name: sglang
+  category: AI engineering
+  repo_url: https://github.com/sgl-project/sglang
+  sub-category: Prompt engineering
+- Name: llm.c
+  category: Model development
+  repo_url: https://github.com/karpathy/llm.c
+  sub-category: Inference optimization
+- Name: lobe-chat
+  category: AI engineering
+  repo_url: https://github.com/lobehub/lobe-chat
+  sub-category: AIE framework
+- Name: gpt_academic
+  category: Applications
+  repo_url: https://github.com/binary-husky/gpt_academic
+  sub-category: Info aggregation
+- Name: generative_agents
+  category: Applications
+  repo_url: https://github.com/joonspk-research/generative_agents
+  sub-category: Bots
+- Name: cursor
+  category: Applications
+  repo_url: https://github.com/getcursor/cursor
+  sub-category: Coding
+- Name: awesome-ai-agents
+  category: Lists
+  repo_url: https://github.com/e2b-dev/awesome-ai-agents
+  sub-category: .nan
+- Name: llmware
+  category: AI engineering
+  repo_url: https://github.com/llmware-ai/llmware
+  sub-category: AIE framework
+- Name: fabric
+  category: Applications
+  repo_url: https://github.com/danielmiessler/fabric
+  sub-category: Workflow automation
+- Name: unilm
+  category: Model development
+  repo_url: https://github.com/microsoft/unilm
+  sub-category: Modeling & training
+- Name: funNLP
+  category: Lists
+  repo_url: https://github.com/fighting41love/funNLP
+  sub-category: .nan
+- Name: awesome-chatgpt-prompts
+  category: Lists
+  repo_url: https://github.com/f/awesome-chatgpt-prompts
+  sub-category: Prompt engineering
+- Name: openllmetry
+  category: Infrastructure
+  repo_url: https://github.com/traceloop/openllmetry
+  sub-category: Monitoring
+- Name: Flowise
+  category: AI engineering
+  repo_url: https://github.com/FlowiseAI/Flowise
+  sub-category: AIE framework
+- Name: WrenAI
+  category: Applications
+  repo_url: https://github.com/Canner/WrenAI
+  sub-category: Coding
+- Name: vanna
+  category: Applications
+  repo_url: https://github.com/vanna-ai/vanna
+  sub-category: Coding
+- Name: pytorch
+  category: Model development
+  repo_url: https://github.com/pytorch/pytorch
+  sub-category: Modeling & training
+- Name: trl
+  category: Model development
+  repo_url: https://github.com/huggingface/trl
+  sub-category: Modeling & training
+- Name: TTS
+  category: Model development
+  repo_url: https://github.com/coqui-ai/TTS
+  sub-category: Modeling & training
+- Name: web-llm
+  category: AI engineering
+  repo_url: https://github.com/mlc-ai/web-llm
+  sub-category: AI interface
+- Name: autogen
+  category: AI engineering
+  repo_url: https://github.com/microsoft/autogen
+  sub-category: Agent
+- Name: text-generation-webui
+  category: AI engineering
+  repo_url: https://github.com/oobabooga/text-generation-webui
+  sub-category: AI interface
+- Name: screenshot-to-code
+  category: Applications
+  repo_url: https://github.com/abi/screenshot-to-code
+  sub-category: Coding
+- Name: Qwen1.5
+  category: Model repo
+  repo_url: https://github.com/QwenLM/Qwen1.5
+  sub-category: .nan
+- Name: llm-course
+  category: Tutorials
+  repo_url: https://github.com/mlabonne/llm-course
+  sub-category: .nan
+- Name: faster-whisper
+  category: Infrastructure
+  repo_url: https://github.com/guillaumekln/faster-whisper
+  sub-category: Serving
+- Name: mindsdb
+  category: AI engineering
+  repo_url: https://github.com/mindsdb/mindsdb
+  sub-category: AIE framework
+- Name: trieve
+  category: AI engineering
+  repo_url: https://github.com/devflowinc/trieve
+  sub-category: AIE framework
+- Name: llama3
+  category: Model repo
+  repo_url: https://github.com/meta-llama/llama3
+  sub-category: .nan
+- Name: chatgpt-on-wechat
+  category: Applications
+  repo_url: https://github.com/zhayujie/chatgpt-on-wechat
+  sub-category: Bots
+- Name: openai-cookbook
+  category: Tutorials
+  repo_url: https://github.com/openai/openai-cookbook
+  sub-category: .nan
+- Name: stable-diffusion
+  category: Model repo
+  repo_url: https://github.com/CompVis/stable-diffusion
+  sub-category: .nan
+- Name: CogVideo
+  category: Model repo
+  repo_url: https://github.com/THUDM/CogVideo
+  sub-category: .nan
+- Name: InvokeAI
+  category: Applications
+  repo_url: https://github.com/invoke-ai/InvokeAI
+  sub-category: Image production
+- Name: LibreChat
+  category: AI engineering
+  repo_url: https://github.com/danny-avila/LibreChat
+  sub-category: AI interface
+- Name: LocalAI
+  category: AI engineering
+  repo_url: https://github.com/go-skynet/LocalAI
+  sub-category: AIE framework
+- Name: one-api
+  category: AI engineering
+  repo_url: https://github.com/songquanpeng/one-api
+  sub-category: AIE framework
+- Name: gorilla
+  category: Applications
+  repo_url: https://github.com/ShishirPatil/gorilla
+  sub-category: Coding
+- Name: Fooocus
+  category: Applications
+  repo_url: https://github.com/lllyasviel/Fooocus
+  sub-category: Image production
+- Name: infinity
+  category: Infrastructure
+  repo_url: https://github.com/michaelfeil/infinity
+  sub-category: Serving
+- Name: llm-action
+  category: Tutorials
+  repo_url: https://github.com/liguodongiot/llm-action
+  sub-category: .nan
+- Name: flash-attention
+  category: Model development
+  repo_url: https://github.com/Dao-AILab/flash-attention
+  sub-category: Inference optimization
+- Name: haystack
+  category: AI engineering
+  repo_url: https://github.com/deepset-ai/haystack
+  sub-category: AIE framework
+- Name: jan
+  category: Applications
+  repo_url: https://github.com/janhq/jan
+  sub-category: Bots
+- Name: DocsGPT
+  category: Applications
+  repo_url: https://github.com/arc53/DocsGPT
+  sub-category: Info aggregation
+- Name: whisper.cpp
+  category: Model development
+  repo_url: https://github.com/ggerganov/whisper.cpp
+  sub-category: Inference optimization
+- Name: distilabel
+  category: Model development
+  repo_url: https://github.com/argilla-io/distilabel
+  sub-category: Dataset engineering
+- Name: FastGPT
+  category: AI engineering
+  repo_url: https://github.com/labring/FastGPT
+  sub-category: AIE framework
+- Name: tabby
+  category: Applications
+  repo_url: https://github.com/TabbyML/tabby
+  sub-category: Coding
+- Name: SWE-agent
+  category: Applications
+  repo_url: https://github.com/princeton-nlp/SWE-agent
+  sub-category: Coding
+- Name: nanoGPT
+  category: Model repo
+  repo_url: https://github.com/karpathy/nanoGPT
+  sub-category: .nan
+- Name: OpenRLHF
+  category: Model development
+  repo_url: https://github.com/OpenLLMAI/OpenRLHF
+  sub-category: Modeling & training
+- Name: chinese-llm-benchmark
+  category: AI engineering
+  repo_url: https://github.com/jeinlee1991/chinese-llm-benchmark
+  sub-category: Evals
+- Name: weaviate
+  category: Infrastructure
+  repo_url: https://github.com/weaviate/weaviate
+  sub-category: VectorDB
+- Name: upscayl
+  category: Applications
+  repo_url: https://github.com/upscayl/upscayl
+  sub-category: Image production
+- Name: ControlNet
+  category: Model repo
+  repo_url: https://github.com/lllyasviel/ControlNet
+  sub-category: .nan
+- Name: Langchain-Chatchat
+  category: AI engineering
+  repo_url: https://github.com/chatchat-space/Langchain-Chatchat
+  sub-category: AIE framework
+- Name: stablediffusion
+  category: Model repo
+  repo_url: https://github.com/Stability-AI/stablediffusion
+  sub-category: .nan
+- Name: gpt4free
+  category: AI engineering
+  repo_url: https://github.com/xtekky/gpt4free
+  sub-category: AI interface
+- Name: ChatGPT
+  category: Applications
+  repo_url: https://github.com/lencx/ChatGPT
+  sub-category: Bots
+- Name: crewAI
+  category: AI engineering
+  repo_url: https://github.com/joaomdmoura/crewAI
+  sub-category: Agent
+- Name: llamafile
+  category: Model development
+  repo_url: https://github.com/Mozilla-Ocho/llamafile
+  sub-category: Inference optimization
+- Name: QAnything
+  category: AI engineering
+  repo_url: https://github.com/netease-youdao/QAnything
+  sub-category: AIE framework
+- Name: Qwen
+  category: Model repo
+  repo_url: https://github.com/QwenLM/Qwen
+  sub-category: .nan
+- Name: ray
+  category: Model development
+  repo_url: https://github.com/ray-project/ray
+  sub-category: Modeling & training
+- Name: open-interpreter
+  category: Applications
+  repo_url: https://github.com/KillianLucas/open-interpreter
+  sub-category: Workflow automation
+- Name: ml-engineering
+  category: Tutorials
+  repo_url: https://github.com/stas00/ml-engineering
+  sub-category: .nan
+- Name: outlines
+  category: AI engineering
+  repo_url: https://github.com/outlines-dev/outlines
+  sub-category: Prompt engineering
+- Name: mlx
+  category: Model development
+  repo_url: https://github.com/ml-explore/mlx
+  sub-category: Modeling & training
+- Name: LLaVA
+  category: Model repo
+  repo_url: https://github.com/haotian-liu/LLaVA
+  sub-category: Multimodal
+- Name: faiss
+  category: Infrastructure
+  repo_url: https://github.com/facebookresearch/faiss
+  sub-category: VectorDB
+- Name: tinygrad
+  category: Model development
+  repo_url: https://github.com/tinygrad/tinygrad
+  sub-category: Modeling & training
+- Name: dspy
+  category: AI engineering
+  repo_url: https://github.com/stanfordnlp/dspy
+  sub-category: Prompt engineering
+- Name: chatbox
+  category: Applications
+  repo_url: https://github.com/Bin-Huang/chatbox
+  sub-category: Bots
+- Name: milvus
+  category: Infrastructure
+  repo_url: https://github.com/milvus-io/milvus
+  sub-category: VectorDB
+- Name: tensorflow
+  category: Model development
+  repo_url: https://github.com/tensorflow/tensorflow
+  sub-category: Modeling & training
+- Name: Prompt-Engineering-Guide
+  category: Tutorials
+  repo_url: https://github.com/dair-ai/Prompt-Engineering-Guide
+  sub-category: Prompt engineering
+- Name: transformers.js
+  category: AI engineering
+  repo_url: https://github.com/xenova/transformers.js
+  sub-category: AIE framework
+- Name: tiktoken
+  category: Model development
+  repo_url: https://github.com/openai/tiktoken
+  sub-category: Dataset engineering
+- Name: latent-diffusion
+  category: Model repo
+  repo_url: https://github.com/CompVis/latent-diffusion
+  sub-category: .nan
+- Name: qdrant
+  category: Infrastructure
+  repo_url: https://github.com/qdrant/qdrant
+  sub-category: VectorDB
+- Name: diffusers
+  category: Model development
+  repo_url: https://github.com/huggingface/diffusers
+  sub-category: Modeling & training
+- Name: MetaGPT
+  category: AI engineering
+  repo_url: https://github.com/geekan/MetaGPT
+  sub-category: Agent
+- Name: bark
+  category: Model repo
+  repo_url: https://github.com/suno-ai/bark
+  sub-category: Multimodal
+- Name: llama
+  category: Model repo
+  repo_url: https://github.com/facebookresearch/llama
+  sub-category: .nan
+- Name: llm-app
+  category: AI engineering
+  repo_url: https://github.com/pathwaycom/llm-app
+  sub-category: AIE framework
+- Name: mamba
+  category: Model repo
+  repo_url: https://github.com/state-spaces/mamba
+  sub-category: .nan
+- Name: Megatron-LM
+  category: Model repo
+  repo_url: https://github.com/NVIDIA/Megatron-LM
+  sub-category: .nan
+- Name: prompt-engineering-for-developers
+  category: Tutorials
+  repo_url: https://github.com/datawhalechina/prompt-engineering-for-developers
+  sub-category: .nan
+- Name: open_clip
+  category: Model repo
+  repo_url: https://github.com/mlfoundations/open_clip
+  sub-category: .nan
+- Name: embedchain
+  category: AI engineering
+  repo_url: https://github.com/embedchain/embedchain
+  sub-category: AIE framework
+- Name: mem0
+  category: AI engineering
+  repo_url: https://github.com/mem0ai/mem0
+  sub-category: Agent
+- Name: DB-GPT
+  category: Applications
+  repo_url: https://github.com/eosphoros-ai/DB-GPT
+  sub-category: Coding
+- Name: Open-Sora
+  category: Model repo
+  repo_url: https://github.com/hpcaitech/Open-Sora
+  sub-category: Multimodal
+- Name: awesome-chatgpt-prompts-zh
+  category: Lists
+  repo_url: https://github.com/PlexPt/awesome-chatgpt-prompts-zh
+  sub-category: Prompt engineering
+- Name: litgpt
+  category: Model development
+  repo_url: https://github.com/Lightning-AI/litgpt
+  sub-category: Modeling & training
+- Name: SillyTavern
+  category: AI engineering
+  repo_url: https://github.com/SillyTavern/SillyTavern
+  sub-category: AI interface
+- Name: marimo
+  category: Infrastructure
+  repo_url: https://github.com/marimo-team/marimo
+  sub-category: Toolings
+- Name: litellm
+  category: AI engineering
+  repo_url: https://github.com/BerriAI/litellm
+  sub-category: AIE framework
+- Name: OmniLMM
+  category: Model repo
+  repo_url: https://github.com/OpenBMB/OmniLMM
+  sub-category: Multimodal
+- Name: chroma
+  category: Infrastructure
+  repo_url: https://github.com/chroma-core/chroma
+  sub-category: VectorDB
+- Name: LLMSurvey
+  category: Lists
+  repo_url: https://github.com/RUCAIBox/LLMSurvey
+  sub-category: .nan
+- Name: openai-python
+  category: AI engineering
+  repo_url: https://github.com/openai/openai-python
+  sub-category: AI interface
+- Name: sentence-transformers
+  category: Model repo
+  repo_url: https://github.com/UKPLab/sentence-transformers
+  sub-category: Multilingual
+- Name: llama2.c
+  category: Model development
+  repo_url: https://github.com/karpathy/llama2.c
+  sub-category: Inference optimization
+- Name: generative-models
+  category: Model repo
+  repo_url: https://github.com/Stability-AI/generative-models
+  sub-category: .nan
+- Name: mmdetection
+  category: Model development
+  repo_url: https://github.com/open-mmlab/mmdetection
+  sub-category: Modeling & training
+- Name: privateGPT
+  category: Applications
+  repo_url: https://github.com/imartinez/privateGPT
+  sub-category: Info aggregation
+- Name: ai
+  category: AI engineering
+  repo_url: https://github.com/vercel/ai
+  sub-category: AIE framework
+- Name: gateway
+  category: Infrastructure
+  repo_url: https://github.com/Portkey-AI/gateway
+  sub-category: Serving
+- Name: tokenizers
+  category: Model development
+  repo_url: https://github.com/huggingface/tokenizers
+  sub-category: Dataset engineering
+- Name: activepieces
+  category: Applications
+  repo_url: https://github.com/activepieces/activepieces
+  sub-category: Workflow automation
+- Name: peft
+  category: Model development
+  repo_url: https://github.com/huggingface/peft
+  sub-category: Modeling & training
+- Name: lama-cleaner
+  category: Applications
+  repo_url: https://github.com/Sanster/lama-cleaner
+  sub-category: Image production
+- Name: quivr
+  category: Applications
+  repo_url: https://github.com/StanGirard/quivr
+  sub-category: Workflow automation
+- Name: sd-webui-controlnet
+  category: Applications
+  repo_url: https://github.com/Mikubill/sd-webui-controlnet
+  sub-category: Image production
+- Name: DeepSpeed
+  category: Model development
+  repo_url: https://github.com/microsoft/DeepSpeed
+  sub-category: Modeling & training
+- Name: guidance
+  category: AI engineering
+  repo_url: https://github.com/guidance-ai/guidance
+  sub-category: Prompt engineering
+- Name: ao
+  category: Model development
+  repo_url: https://github.com/pytorch-labs/ao
+  sub-category: Inference optimization
+- Name: langgraph
+  category: AI engineering
+  repo_url: https://github.com/langchain-ai/langgraph
+  sub-category: Agent
+- Name: lancedb
+  category: Infrastructure
+  repo_url: https://github.com/lancedb/lancedb
+  sub-category: VectorDB
+- Name: lmdeploy
+  category: Infrastructure
+  repo_url: https://github.com/InternLM/lmdeploy
+  sub-category: Serving
+- Name: unstructured
+  category: AI engineering
+  repo_url: https://github.com/Unstructured-IO/unstructured
+  sub-category: AIE framework
+- Name: FinGPT
+  category: Model repo
+  repo_url: https://github.com/AI4Finance-Foundation/FinGPT
+  sub-category: .nan
+- Name: GroundingDINO
+  category: Model repo
+  repo_url: https://github.com/IDEA-Research/GroundingDINO
+  sub-category: Multimodal
+- Name: insanely-fast-whisper
+  category: Model repo
+  repo_url: https://github.com/Vaibhavs10/insanely-fast-whisper
+  sub-category: .nan
+- Name: Firefly
+  category: Model development
+  repo_url: https://github.com/yangjianxin1/Firefly
+  sub-category: Modeling & training
+- Name: photoprism
+  category: Applications
+  repo_url: https://github.com/photoprism/photoprism
+  sub-category: Data organization
+- Name: mistral-src
+  category: Model repo
+  repo_url: https://github.com/mistralai/mistral-src
+  sub-category: .nan
+- Name: agentscope
+  category: AI engineering
+  repo_url: https://github.com/modelscope/agentscope
+  sub-category: Agent
+- Name: ragas
+  category: AI engineering
+  repo_url: https://github.com/explodinggradients/ragas
+  sub-category: Evals
+- Name: generative-ai
+  category: Tutorials
+  repo_url: https://github.com/GoogleCloudPlatform/generative-ai
+  sub-category: .nan
+- Name: alignment-handbook
+  category: Tutorials
+  repo_url: https://github.com/huggingface/alignment-handbook
+  sub-category: .nan
+- Name: Self-Hosting-Guide
+  category: Tutorials
+  repo_url: https://github.com/mikeroyal/Self-Hosting-Guide
+  sub-category: .nan
+- Name: TensorRT-LLM
+  category: Model development
+  repo_url: https://github.com/NVIDIA/TensorRT-LLM
+  sub-category: Inference optimization
+- Name: Verba
+  category: Applications
+  repo_url: https://github.com/weaviate/Verba
+  sub-category: Info aggregation
+- Name: vit-pytorch
+  category: Model repo
+  repo_url: https://github.com/lucidrains/vit-pytorch
+  sub-category: .nan
+- Name: gpt-researcher
+  category: Applications
+  repo_url: https://github.com/assafelovic/gpt-researcher
+  sub-category: Info aggregation
+- Name: NeMo
+  category: Model development
+  repo_url: https://github.com/NVIDIA/NeMo
+  sub-category: Modeling & training
+- Name: denoising-diffusion-pytorch
+  category: Model repo
+  repo_url: https://github.com/lucidrains/denoising-diffusion-pytorch
+  sub-category: .nan
+- Name: promptflow
+  category: AI engineering
+  repo_url: https://github.com/microsoft/promptflow
+  sub-category: AIE framework
+- Name: nerfstudio
+  category: Model development
+  repo_url: https://github.com/nerfstudio-project/nerfstudio
+  sub-category: Modeling & training
+- Name: GPTs
+  category: Lists
+  repo_url: https://github.com/linexjlin/GPTs
+  sub-category: .nan
+- Name: jax
+  category: Model development
+  repo_url: https://github.com/google/jax
+  sub-category: Modeling & training
+- Name: AgentGPT
+  category: AI engineering
+  repo_url: https://github.com/reworkd/AgentGPT
+  sub-category: Agent
+- Name: DeepSpeech
+  category: Model development
+  repo_url: https://github.com/mozilla/DeepSpeech
+  sub-category: Modeling & training
+- Name: deepeval
+  category: AI engineering
+  repo_url: https://github.com/confident-ai/deepeval
+  sub-category: Evals
+- Name: data-juicer
+  category: Model development
+  repo_url: https://github.com/alibaba/data-juicer
+  sub-category: Dataset engineering
+- Name: opencompass
+  category: AI engineering
+  repo_url: https://github.com/open-compass/opencompass
+  sub-category: Evals
+- Name: openvino
+  category: Infrastructure
+  repo_url: https://github.com/openvinotoolkit/openvino
+  sub-category: Serving
+- Name: pandas-ai
+  category: Applications
+  repo_url: https://github.com/Sinaptik-AI/pandas-ai
+  sub-category: Coding
+- Name: axolotl
+  category: Model development
+  repo_url: https://github.com/OpenAccess-AI-Collective/axolotl
+  sub-category: Modeling & training
+- Name: EmotiVoice
+  category: Model repo
+  repo_url: https://github.com/netease-youdao/EmotiVoice
+  sub-category: Multimodal
+- Name: go-openai
+  category: AI engineering
+  repo_url: https://github.com/sashabaranov/go-openai
+  sub-category: AI interface
+- Name: accelerate
+  category: Model development
+  repo_url: https://github.com/huggingface/accelerate
+  sub-category: Modeling & training
+- Name: localGPT
+  category: Applications
+  repo_url: https://github.com/PromtEngineer/localGPT
+  sub-category: Info aggregation
+- Name: netron
+  category: Tutorials
+  repo_url: https://github.com/lutzroeder/netron
+  sub-category: .nan
+- Name: Chinese-LLaMA-Alpaca
+  category: Model repo
+  repo_url: https://github.com/ymcui/Chinese-LLaMA-Alpaca
+  sub-category: Multilingual
+- Name: textgrad
+  category: AI engineering
+  repo_url: https://github.com/zou-group/textgrad
+  sub-category: Prompt engineering
+- Name: phoenix
+  category: AI engineering
+  repo_url: https://github.com/Arize-ai/phoenix
+  sub-category: Evals
+- Name: cleanlab
+  category: Model development
+  repo_url: https://github.com/cleanlab/cleanlab
+  sub-category: Dataset engineering
+- Name: langfuse
+  category: Infrastructure
+  repo_url: https://github.com/langfuse/langfuse
+  sub-category: Monitoring
+- Name: paper-qa
+  category: Applications
+  repo_url: https://github.com/whitead/paper-qa
+  sub-category: Info aggregation
+- Name: candle
+  category: Model development
+  repo_url: https://github.com/huggingface/candle
+  sub-category: Modeling & training
+- Name: openai-node
+  category: AI engineering
+  repo_url: https://github.com/openai/openai-node
+  sub-category: AI interface
+- Name: awesome-generative-ai
+  category: Lists
+  repo_url: https://github.com/steven2358/awesome-generative-ai
+  sub-category: .nan
+- Name: MemGPT
+  category: AI engineering
+  repo_url: https://github.com/cpacker/MemGPT
+  sub-category: Agent
+- Name: PentestGPT
+  category: Applications
+  repo_url: https://github.com/GreyDGL/PentestGPT
+  sub-category: Coding
+- Name: latent-consistency-model
+  category: Model repo
+  repo_url: https://github.com/luosiallen/latent-consistency-model
+  sub-category: .nan
+- Name: server
+  category: Infrastructure
+  repo_url: https://github.com/triton-inference-server/server
+  sub-category: Serving
+- Name: mlc-llm
+  category: Model development
+  repo_url: https://github.com/mlc-ai/mlc-llm
+  sub-category: Inference optimization
+- Name: babyagi
+  category: AI engineering
+  repo_url: https://github.com/yoheinakajima/babyagi
+  sub-category: Agent
+- Name: gpt-crawler
+  category: Model development
+  repo_url: https://github.com/BuilderIO/gpt-crawler
+  sub-category: Dataset engineering
+- Name: PaddleNLP
+  category: Model development
+  repo_url: https://github.com/PaddlePaddle/PaddleNLP
+  sub-category: Modeling & training
+- Name: graphiti
+  category: AI engineering
+  repo_url: https://github.com/getzep/graphiti
+  sub-category: AIE framework
+- Name: floneum
+  category: AI engineering
+  repo_url: https://github.com/floneum/floneum
+  sub-category: AIE framework
+- Name: Show-o
+  category: Model repo
+  repo_url: https://github.com/showlab/Show-o
+  sub-category: Multimodal
+- Name: BCEmbedding
+  category: Model repo
+  repo_url: https://github.com/netease-youdao/BCEmbedding
+  sub-category: .nan
+- Name: inference
+  category: Infrastructure
+  repo_url: https://github.com/xorbitsai/inference
+  sub-category: Serving
+- Name: MobileAgent
+  category: Model repo
+  repo_url: https://github.com/X-PLUG/MobileAgent
+  sub-category: Multimodal
+- Name: torchtune
+  category: Model development
+  repo_url: https://github.com/pytorch/torchtune
+  sub-category: Modeling & training
+- Name: llm-awq
+  category: Model development
+  repo_url: https://github.com/mit-han-lab/llm-awq
+  sub-category: Inference optimization
+- Name: mergekit
+  category: Model development
+  repo_url: https://github.com/cg123/mergekit
+  sub-category: Modeling & training
+- Name: langchain4j
+  category: AI engineering
+  repo_url: https://github.com/langchain4j/langchain4j
+  sub-category: AIE framework
+- Name: FlagEmbedding
+  category: Model development
+  repo_url: https://github.com/FlagOpen/FlagEmbedding
+  sub-category: Modeling & training
+- Name: awesome-RLHF
+  category: Lists
+  repo_url: https://github.com/opendilab/awesome-RLHF
+  sub-category: .nan
+- Name: e2b
+  category: AI engineering
+  repo_url: https://github.com/e2b-dev/e2b
+  sub-category: Agent
+- Name: chainlit
+  category: AI engineering
+  repo_url: https://github.com/Chainlit/chainlit
+  sub-category: AIE framework
+- Name: burn
+  category: Model development
+  repo_url: https://github.com/tracel-ai/burn
+  sub-category: Modeling & training
+- Name: LLM-Agent-Paper-List
+  category: Lists
+  repo_url: https://github.com/WooooDyy/LLM-Agent-Paper-List
+  sub-category: .nan
+- Name: triton
+  category: Model development
+  repo_url: https://github.com/openai/triton
+  sub-category: Inference optimization
+- Name: NExT-GPT
+  category: Model repo
+  repo_url: https://github.com/NExT-GPT/NExT-GPT
+  sub-category: Multimodal
+- Name: modelscope
+  category: AI engineering
+  repo_url: https://github.com/modelscope/modelscope
+  sub-category: AIE framework
+- Name: ggml
+  category: Model development
+  repo_url: https://github.com/ggerganov/ggml
+  sub-category: Inference optimization
+- Name: langchainjs
+  category: AI engineering
+  repo_url: https://github.com/langchain-ai/langchainjs
+  sub-category: AIE framework
+- Name: AnimateDiff
+  category: Model repo
+  repo_url: https://github.com/guoyww/AnimateDiff
+  sub-category: .nan
+- Name: evals
+  category: AI engineering
+  repo_url: https://github.com/openai/evals
+  sub-category: Evals
+- Name: semantic-kernel
+  category: AI engineering
+  repo_url: https://github.com/microsoft/semantic-kernel
+  sub-category: Agent
+- Name: chatgpt-mirai-qq-bot
+  category: Applications
+  repo_url: https://github.com/lss233/chatgpt-mirai-qq-bot
+  sub-category: Bots
+- Name: datasets
+  category: Model development
+  repo_url: https://github.com/huggingface/datasets
+  sub-category: Dataset engineering
+- Name: chatgpt-api
+  category: Applications
+  repo_url: https://github.com/transitive-bullshit/chatgpt-api
+  sub-category: Bots
+- Name: ChatDev
+  category: Applications
+  repo_url: https://github.com/OpenBMB/ChatDev
+  sub-category: Coding
+- Name: TabNine
+  category: Applications
+  repo_url: https://github.com/codota/TabNine
+  sub-category: Coding
+- Name: FastChat
+  category: Model development
+  repo_url: https://github.com/lm-sys/FastChat
+  sub-category: Modeling & training
+- Name: ChatGLM-6B
+  category: Model repo
+  repo_url: https://github.com/THUDM/ChatGLM-6B
+  sub-category: Multilingual
+- Name: gpt-engineer
+  category: Applications
+  repo_url: https://github.com/gpt-engineer-org/gpt-engineer
+  sub-category: Coding
+- Name: WordLlama
+  category: AI engineering
+  repo_url: https://github.com/dleemiller/WordLlama
+  sub-category: Dataset engineering
+- Name: llm
+  category: Applications
+  repo_url: https://github.com/simonw/llm
+  sub-category: Bots
+- Name: langroid
+  category: AI engineering
+  repo_url: https://github.com/langroid/langroid
+  sub-category: Agent
+- Name: Qwen-Agent
+  category: AI engineering
+  repo_url: https://github.com/QwenLM/Qwen-Agent
+  sub-category: Agent
+- Name: PurpleLlama
+  category: AI engineering
+  repo_url: https://github.com/meta-llama/PurpleLlama
+  sub-category: Evals
+- Name: lm-evaluation-harness
+  category: AI engineering
+  repo_url: https://github.com/EleutherAI/lm-evaluation-harness
+  sub-category: Evals
+- Name: StyleTTS2
+  category: Model repo
+  repo_url: https://github.com/yl4579/StyleTTS2
+  sub-category: Multimodal
+- Name: tree-of-thought-llm
+  category: AI engineering
+  repo_url: https://github.com/princeton-nlp/tree-of-thought-llm
+  sub-category: Prompt engineering
+- Name: novel
+  category: Applications
+  repo_url: https://github.com/steven-tey/novel
+  sub-category: Writing
+- Name: camel
+  category: Applications
+  repo_url: https://github.com/camel-ai/camel
+  sub-category: Bots
+- Name: zotero-gpt
+  category: Applications
+  repo_url: https://github.com/MuiseDestiny/zotero-gpt
+  sub-category: Info aggregation
+- Name: chatnio
+  category: AI engineering
+  repo_url: https://github.com/Deeptrain-Community/chatnio
+  sub-category: AIE framework
+- Name: optimum
+  category: Model development
+  repo_url: https://github.com/huggingface/optimum
+  sub-category: Modeling & training
+- Name: instructor
+  category: AI engineering
+  repo_url: https://github.com/jxnl/instructor
+  sub-category: Prompt engineering
+- Name: MiniCPM
+  category: Model repo
+  repo_url: https://github.com/OpenBMB/MiniCPM
+  sub-category: .nan
+- Name: aicommits
+  category: Applications
+  repo_url: https://github.com/Nutlope/aicommits
+  sub-category: Coding
+- Name: OpenLLM
+  category: Infrastructure
+  repo_url: https://github.com/bentoml/OpenLLM
+  sub-category: Serving
+- Name: Qwen-VL
+  category: Model repo
+  repo_url: https://github.com/QwenLM/Qwen-VL
+  sub-category: Multimodal
+- Name: lmops
+  category: AI engineering
+  repo_url: https://github.com/microsoft/lmops
+  sub-category: AIE framework
+- Name: shell_gpt
+  category: Applications
+  repo_url: https://github.com/TheR1D/shell_gpt
+  sub-category: Coding
+- Name: text-generation-inference
+  category: Infrastructure
+  repo_url: https://github.com/huggingface/text-generation-inference
+  sub-category: Serving
+- Name: vision_transformer
+  category: Model repo
+  repo_url: https://github.com/google-research/vision_transformer
+  sub-category: Multimodal
+- Name: chatgpt_system_prompt
+  category: Lists
+  repo_url: https://github.com/LouisShark/chatgpt_system_prompt
+  sub-category: Prompt engineering
+- Name: RWKV-LM
+  category: Model repo
+  repo_url: https://github.com/BlinkDL/RWKV-LM
+  sub-category: .nan
+- Name: google-research
+  category: Model development
+  repo_url: https://github.com/google-research/google-research
+  sub-category: Modeling & training
+- Name: SuperAGI
+  category: AI engineering
+  repo_url: https://github.com/TransformerOptimus/SuperAGI
+  sub-category: Agent
+- Name: leon
+  category: Applications
+  repo_url: https://github.com/leon-ai/leon
+  sub-category: Bots
+- Name: TensorRT
+  category: Model development
+  repo_url: https://github.com/NVIDIA/TensorRT
+  sub-category: Inference optimization
+- Name: GFPGAN
+  category: Model repo
+  repo_url: https://github.com/TencentARC/GFPGAN
+  sub-category: .nan
+- Name: chatbot-ui
+  category: AI engineering
+  repo_url: https://github.com/mckaywrigley/chatbot-ui
+  sub-category: AI interface
+- Name: lightllm
+  category: Infrastructure
+  repo_url: https://github.com/ModelTC/lightllm
+  sub-category: Serving
+- Name: aphrodite-engine
+  category: Infrastructure
+  repo_url: https://github.com/PygmalionAI/aphrodite-engine
+  sub-category: Serving
+- Name: prm800k
+  category: Model development
+  repo_url: https://github.com/openai/prm800k
+  sub-category: Dataset engineering
+- Name: helicone
+  category: Infrastructure
+  repo_url: https://github.com/Helicone/helicone
+  sub-category: Monitoring
+- Name: page-assist
+  category: Applications
+  repo_url: https://github.com/n4ze3m/page-assist
+  sub-category: Workflow automation
+- Name: ProteinMPNN
+  category: Model repo
+  repo_url: https://github.com/dauparas/ProteinMPNN
+  sub-category: .nan
+- Name: ollama-js
+  category: AI engineering
+  repo_url: https://github.com/ollama/ollama-js
+  sub-category: AI interface
+- Name: simple-evals
+  category: AI engineering
+  repo_url: https://github.com/openai/simple-evals
+  sub-category: Evals
+- Name: text-embeddings-inference
+  category: Infrastructure
+  repo_url: https://github.com/huggingface/text-embeddings-inference
+  sub-category: Serving
+- Name: mteb
+  category: AI engineering
+  repo_url: https://github.com/embeddings-benchmark/mteb
+  sub-category: Evals
+- Name: guardrails
+  category: AI engineering
+  repo_url: https://github.com/guardrails-ai/guardrails
+  sub-category: Prompt engineering
+- Name: scikit-llm
+  category: Model development
+  repo_url: https://github.com/iryna-kondr/scikit-llm
+  sub-category: Modeling & training
+- Name: llmsherpa
+  category: Applications
+  repo_url: https://github.com/nlmatics/llmsherpa
+  sub-category: Info aggregation
+- Name: argilla
+  category: Model development
+  repo_url: https://github.com/argilla-io/argilla
+  sub-category: Dataset engineering
+- Name: skyvern
+  category: Applications
+  repo_url: https://github.com/Skyvern-AI/skyvern
+  sub-category: Workflow automation
+- Name: marqo
+  category: Infrastructure
+  repo_url: https://github.com/marqo-ai/marqo
+  sub-category: VectorDB
+- Name: exllamav2
+  category: Model development
+  repo_url: https://github.com/turboderp/exllamav2
+  sub-category: Inference optimization
+- Name: OOTDiffusion
+  category: Model repo
+  repo_url: https://github.com/levihsu/OOTDiffusion
+  sub-category: Multimodal
+- Name: codeium.vim
+  category: Applications
+  repo_url: https://github.com/Exafunction/codeium.vim
+  sub-category: Coding
+- Name: ibis
+  category: Infrastructure
+  repo_url: https://github.com/ibis-project/ibis
+  sub-category: Data management
+- Name: dupeguru
+  category: AI engineering
+  repo_url: https://github.com/arsenetar/dupeguru
+  sub-category: Dataset engineering
+- Name: self-operating-computer
+  category: Applications
+  repo_url: https://github.com/OthersideAI/self-operating-computer
+  sub-category: Workflow automation
+- Name: skypilot
+  category: Infrastructure
+  repo_url: https://github.com/skypilot-org/skypilot
+  sub-category: Compute management
+- Name: kserve
+  category: Infrastructure
+  repo_url: https://github.com/kserve/kserve
+  sub-category: Serving
+- Name: zenml
+  category: Infrastructure
+  repo_url: https://github.com/zenml-io/zenml
+  sub-category: Compute management
+- Name: Awesome-AIGC-Tutorials
+  category: Tutorials
+  repo_url: https://github.com/luban-agi/Awesome-AIGC-Tutorials
+  sub-category: .nan
+- Name: Depth-Anything
+  category: Model repo
+  repo_url: https://github.com/LiheYoung/Depth-Anything
+  sub-category: .nan
+- Name: LAVIS
+  category: Model development
+  repo_url: https://github.com/salesforce/LAVIS
+  sub-category: Modeling & training
+- Name: threestudio
+  category: Model repo
+  repo_url: https://github.com/threestudio-project/threestudio
+  sub-category: Multimodal
+- Name: txtai
+  category: Infrastructure
+  repo_url: https://github.com/neuml/txtai
+  sub-category: VectorDB
+- Name: einops
+  category: Infrastructure
+  repo_url: https://github.com/arogozhnikov/einops
+  sub-category: Toolings
+- Name: gpt-neox
+  category: Model development
+  repo_url: https://github.com/EleutherAI/gpt-neox
+  sub-category: Modeling & training
+- Name: diffusionbee-stable-diffusion-ui
+  category: Applications
+  repo_url: https://github.com/divamgupta/diffusionbee-stable-diffusion-ui
+  sub-category: Image production
+- Name: mojo
+  category: Model development
+  repo_url: https://github.com/modularml/mojo
+  sub-category: Modeling & training
+- Name: ml-agents
+  category: Applications
+  repo_url: https://github.com/Unity-Technologies/ml-agents
+  sub-category: Bots
+- Name: PaddleSpeech
+  category: Model development
+  repo_url: https://github.com/PaddlePaddle/PaddleSpeech
+  sub-category: Modeling & training
+- Name: Open-Sora-Plan
+  category: Model repo
+  repo_url: https://github.com/PKU-YuanGroup/Open-Sora-Plan
+  sub-category: Multimodal
+- Name: botpress
+  category: AI engineering
+  repo_url: https://github.com/botpress/botpress
+  sub-category: Agent
+- Name: Bend
+  category: Model development
+  repo_url: https://github.com/HigherOrderCO/Bend
+  sub-category: Modeling & training
+- Name: magic-animate
+  category: Model repo
+  repo_url: https://github.com/magic-research/magic-animate
+  sub-category: Multimodal
+- Name: WriteGPT
+  category: Applications
+  repo_url: https://github.com/EssayKillerBrain/WriteGPT
+  sub-category: Writing
+- Name: MiniGPT-4
+  category: Model repo
+  repo_url: https://github.com/Vision-CAIR/MiniGPT-4
+  sub-category: Multimodal
+- Name: ColossalAI
+  category: Model development
+  repo_url: https://github.com/hpcaitech/ColossalAI
+  sub-category: Modeling & training
+- Name: grok-1
+  category: Model repo
+  repo_url: https://github.com/xai-org/grok-1
+  sub-category: .nan
+- Name: burr
+  category: AI engineering
+  repo_url: https://github.com/DAGWorks-Inc/burr
+  sub-category: AIE framework
+- Name: semantic-router
+  category: AI engineering
+  repo_url: https://github.com/aurelio-labs/semantic-router
+  sub-category: AIE framework
+- Name: PyRIT
+  category: AI engineering
+  repo_url: https://github.com/Azure/PyRIT
+  sub-category: Evals
+- Name: lm-format-enforcer
+  category: AI engineering
+  repo_url: https://github.com/noamgat/lm-format-enforcer
+  sub-category: Prompt engineering
+- Name: vector-quantize-pytorch
+  category: Model development
+  repo_url: https://github.com/lucidrains/vector-quantize-pytorch
+  sub-category: Inference optimization
+- Name: aichat
+  category: Applications
+  repo_url: https://github.com/sigoden/aichat
+  sub-category: Bots
+- Name: pgvecto.rs
+  category: Infrastructure
+  repo_url: https://github.com/tensorchord/pgvecto.rs
+  sub-category: VectorDB
+- Name: TransformerLens
+  category: AI engineering
+  repo_url: https://github.com/TransformerLensOrg/TransformerLens
+  sub-category: Evals
+- Name: safetensors
+  category: Infrastructure
+  repo_url: https://github.com/huggingface/safetensors
+  sub-category: Toolings
+- Name: datatrove
+  category: Model development
+  repo_url: https://github.com/huggingface/datatrove
+  sub-category: Dataset engineering
+- Name: pezzo
+  category: AI engineering
+  repo_url: https://github.com/pezzolabs/pezzo
+  sub-category: AIE framework
+- Name: helm
+  category: AI engineering
+  repo_url: https://github.com/stanford-crfm/helm
+  sub-category: Evals
+- Name: safe-rlhf
+  category: Model development
+  repo_url: https://github.com/PKU-Alignment/safe-rlhf
+  sub-category: Modeling & training
+- Name: llm-viz
+  category: Tutorials
+  repo_url: https://github.com/bbycroft/llm-viz
+  sub-category: .nan
+- Name: marvin
+  category: AI engineering
+  repo_url: https://github.com/PrefectHQ/marvin
+  sub-category: Prompt engineering
+- Name: Llama2-Chinese
+  category: Model repo
+  repo_url: https://github.com/FlagAlpha/Llama2-Chinese
+  sub-category: Multilingual
+- Name: GPTCache
+  category: Infrastructure
+  repo_url: https://github.com/zilliztech/GPTCache
+  sub-category: Serving
+- Name: stable-diffusion-webui-docker
+  category: Infrastructure
+  repo_url: https://github.com/AbdBarho/stable-diffusion-webui-docker
+  sub-category: Toolings
+- Name: AutoGPTQ
+  category: Model development
+  repo_url: https://github.com/PanQiWei/AutoGPTQ
+  sub-category: Inference optimization
+- Name: gpt-fast
+  category: Model development
+  repo_url: https://github.com/pytorch-labs/gpt-fast
+  sub-category: Inference optimization
+- Name: sqlcoder
+  category: Applications
+  repo_url: https://github.com/defog-ai/sqlcoder
+  sub-category: Coding
+- Name: metavoice-src
+  category: Model repo
+  repo_url: https://github.com/metavoiceio/metavoice-src
+  sub-category: Multimodal
+- Name: open-llms
+  category: Lists
+  repo_url: https://github.com/eugeneyan/open-llms
+  sub-category: .nan
+- Name: CodeGeeX
+  category: Model repo
+  repo_url: https://github.com/THUDM/CodeGeeX
+  sub-category: .nan
+- Name: cog
+  category: Infrastructure
+  repo_url: https://github.com/replicate/cog
+  sub-category: Toolings
+- Name: adversarial-robustness-toolbox
+  category: AI engineering
+  repo_url: https://github.com/Trusted-AI/adversarial-robustness-toolbox
+  sub-category: Evals
+- Name: CogVLM
+  category: Model repo
+  repo_url: https://github.com/THUDM/CogVLM
+  sub-category: Multimodal
+- Name: OutfitAnyone
+  category: Applications
+  repo_url: https://github.com/HumanAIGC/OutfitAnyone
+  sub-category: Image production
+- Name: BetterChatGPT
+  category: Applications
+  repo_url: https://github.com/ztjhz/BetterChatGPT
+  sub-category: Bots
+- Name: UFO
+  category: Applications
+  repo_url: https://github.com/microsoft/UFO
+  sub-category: Workflow automation
+- Name: clearml
+  category: Infrastructure
+  repo_url: https://github.com/allegroai/clearml
+  sub-category: Serving
+- Name: EMO
+  category: Model repo
+  repo_url: https://github.com/HumanAIGC/EMO
+  sub-category: .nan
+- Name: llama-gpt
+  category: Applications
+  repo_url: https://github.com/getumbrel/llama-gpt
+  sub-category: Bots
+- Name: h2ogpt
+  category: AI engineering
+  repo_url: https://github.com/h2oai/h2ogpt
+  sub-category: AIE framework
+- Name: KeepChatGPT
+  category: Applications
+  repo_url: https://github.com/xcanwin/KeepChatGPT
+  sub-category: Bots
+- Name: TagUI
+  category: Applications
+  repo_url: https://github.com/aisingapore/TagUI
+  sub-category: Workflow automation
+- Name: pycorrector
+  category: Applications
+  repo_url: https://github.com/shibing624/pycorrector
+  sub-category: Writing
+- Name: minbpe
+  category: Model development
+  repo_url: https://github.com/karpathy/minbpe
+  sub-category: Dataset engineering
+- Name: paper2gui
+  category: Applications
+  repo_url: https://github.com/Baiyuetribe/paper2gui
+  sub-category: Image production
+- Name: easydiffusion
+  category: Applications
+  repo_url: https://github.com/easydiffusion/easydiffusion
+  sub-category: Image production
+- Name: BELLE
+  category: Model development
+  repo_url: https://github.com/LianjiaTech/BELLE
+  sub-category: Modeling & training
+- Name: docta
+  category: Model development
+  repo_url: https://github.com/Docta-ai/docta
+  sub-category: Dataset engineering
+- Name: ChatALL
+  category: AI engineering
+  repo_url: https://github.com/sunner/ChatALL
+  sub-category: AI interface
+- Name: stanford_alpaca
+  category: Model repo
+  repo_url: https://github.com/tatsu-lab/stanford_alpaca
+  sub-category: .nan
+- Name: faker
+  category: AI engineering
+  repo_url: https://github.com/joke2k/faker
+  sub-category: Dataset engineering
+- Name: Screenshot-to-code
+  category: Applications
+  repo_url: https://github.com/emilwallner/Screenshot-to-code
+  sub-category: Coding
+- Name: jukebox
+  category: Model repo
+  repo_url: https://github.com/openai/jukebox
+  sub-category: Multimodal
+- Name: gptel
+  category: Applications
+  repo_url: https://github.com/karthink/gptel
+  sub-category: Bots
+- Name: agentops
+  category: AI engineering
+  repo_url: https://github.com/AgentOps-AI/agentops
+  sub-category: Agent
+- Name: LLMStack
+  category: AI engineering
+  repo_url: https://github.com/trypromptly/LLMStack
+  sub-category: AIE framework
+- Name: WhisperKit
+  category: Infrastructure
+  repo_url: https://github.com/argmaxinc/WhisperKit
+  sub-category: Serving
+- Name: dolma
+  category: Model development
+  repo_url: https://github.com/allenai/dolma
+  sub-category: Dataset engineering
+- Name: OMG-Seg
+  category: Model repo
+  repo_url: https://github.com/lxtGH/OMG-Seg
+  sub-category: .nan
+- Name: giskard
+  category: AI engineering
+  repo_url: https://github.com/Giskard-AI/giskard
+  sub-category: Evals
+- Name: ai-town
+  category: Applications
+  repo_url: https://github.com/a16z-infra/ai-town
+  sub-category: Bots
+- Name: casibase
+  category: AI engineering
+  repo_url: https://github.com/casibase/casibase
+  sub-category: AIE framework
+- Name: ThunderKittens
+  category: Model development
+  repo_url: https://github.com/HazyResearch/ThunderKittens
+  sub-category: Inference optimization
+- Name: fsdp_qlora
+  category: Model development
+  repo_url: https://github.com/AnswerDotAI/fsdp_qlora
+  sub-category: Modeling & training
+- Name: lagent
+  category: AI engineering
+  repo_url: https://github.com/InternLM/lagent
+  sub-category: Agent
+- Name: Bunny
+  category: Model repo
+  repo_url: https://github.com/BAAI-DCAI/Bunny
+  sub-category: Multimodal
+- Name: llm-attacks
+  category: AI engineering
+  repo_url: https://github.com/llm-attacks/llm-attacks
+  sub-category: Evals
+- Name: xtuner
+  category: Model development
+  repo_url: https://github.com/InternLM/xtuner
+  sub-category: Modeling & training
+- Name: torchmetrics
+  category: AI engineering
+  repo_url: https://github.com/Lightning-AI/torchmetrics
+  sub-category: Evals
+- Name: splink
+  category: AI engineering
+  repo_url: https://github.com/moj-analytical-services/splink
+  sub-category: Dataset engineering
+- Name: CTranslate2
+  category: Model development
+  repo_url: https://github.com/OpenNMT/CTranslate2
+  sub-category: Inference optimization
+- Name: human-eval
+  category: AI engineering
+  repo_url: https://github.com/openai/human-eval
+  sub-category: Evals
+- Name: NeMo-Guardrails
+  category: AI engineering
+  repo_url: https://github.com/NVIDIA/NeMo-Guardrails
+  sub-category: Evals
+- Name: SeaGOAT
+  category: Applications
+  repo_url: https://github.com/kantord/SeaGOAT
+  sub-category: Coding
+- Name: Torch-Pruning
+  category: Model development
+  repo_url: https://github.com/VainF/Torch-Pruning
+  sub-category: Inference optimization
+- Name: OLMo
+  category: Model repo
+  repo_url: https://github.com/allenai/OLMo
+  sub-category: .nan
+- Name: EVA
+  category: Model repo
+  repo_url: https://github.com/baaivision/EVA
+  sub-category: Multimodal
+- Name: evidently
+  category: Infrastructure
+  repo_url: https://github.com/evidentlyai/evidently
+  sub-category: Monitoring
+- Name: FinGLM
+  category: Model repo
+  repo_url: https://github.com/MetaGLM/FinGLM
+  sub-category: .nan
+- Name: reor
+  category: Applications
+  repo_url: https://github.com/reorproject/reor
+  sub-category: Writing
+- Name: x-transformers
+  category: Model repo
+  repo_url: https://github.com/lucidrains/x-transformers
+  sub-category: .nan
+- Name: AgentVerse
+  category: AI engineering
+  repo_url: https://github.com/OpenBMB/AgentVerse
+  sub-category: Agent
+- Name: mnn-llm
+  category: Infrastructure
+  repo_url: https://github.com/wangzhaode/mnn-llm
+  sub-category: Toolings
+- Name: MedicalNet
+  category: Model development
+  repo_url: https://github.com/Tencent/MedicalNet
+  sub-category: Dataset engineering
+- Name: numpyro
+  category: Model development
+  repo_url: https://github.com/pyro-ppl/numpyro
+  sub-category: Modeling & training
+- Name: RWKV-Runner
+  category: AI engineering
+  repo_url: https://github.com/josStorer/RWKV-Runner
+  sub-category: AIE framework
+- Name: materials_discovery
+  category: Model repo
+  repo_url: https://github.com/google-deepmind/materials_discovery
+  sub-category: Multimodal
+- Name: AgentBench
+  category: AI engineering
+  repo_url: https://github.com/THUDM/AgentBench
+  sub-category: Evals
+- Name: xiaogpt
+  category: AI engineering
+  repo_url: https://github.com/yihong0618/xiaogpt
+  sub-category: AI interface
+- Name: LaVague
+  category: Applications
+  repo_url: https://github.com/lavague-ai/LaVague
+  sub-category: Workflow automation
+- Name: xformers
+  category: Model development
+  repo_url: https://github.com/facebookresearch/xformers
+  sub-category: Modeling & training
+- Name: sqlchat
+  category: Applications
+  repo_url: https://github.com/sqlchat/sqlchat
+  sub-category: Coding
+- Name: BERTopic
+  category: Model development
+  repo_url: https://github.com/Maartengr/BERTopic
+  sub-category: Modeling & training
+- Name: pythia
+  category: Model repo
+  repo_url: https://github.com/EleutherAI/pythia
+  sub-category: .nan
+- Name: ml-stable-diffusion
+  category: Model repo
+  repo_url: https://github.com/apple/ml-stable-diffusion
+  sub-category: .nan
+- Name: jsonformer
+  category: AI engineering
+  repo_url: https://github.com/1rgs/jsonformer
+  sub-category: Prompt engineering
+- Name: labml
+  category: Infrastructure
+  repo_url: https://github.com/labmlai/labml
+  sub-category: Monitoring
+- Name: civitai
+  category: AI engineering
+  repo_url: https://github.com/civitai/civitai
+  sub-category: Prompt engineering
+- Name: roomGPT
+  category: Applications
+  repo_url: https://github.com/Nutlope/roomGPT
+  sub-category: Image production
+- Name: ann-benchmarks
+  category: AI engineering
+  repo_url: https://github.com/erikbern/ann-benchmarks
+  sub-category: Evals
+- Name: seamless_communication
+  category: Model repo
+  repo_url: https://github.com/facebookresearch/seamless_communication
+  sub-category: Multimodal
+- Name: open_flamingo
+  category: Model development
+  repo_url: https://github.com/mlfoundations/open_flamingo
+  sub-category: Modeling & training
+- Name: DeepSeek-LLM
+  category: Model repo
+  repo_url: https://github.com/deepseek-ai/DeepSeek-LLM
+  sub-category: .nan
+- Name: LLMs-In-China
+  category: Lists
+  repo_url: https://github.com/wgwang/LLMs-In-China
+  sub-category: .nan
+- Name: Fay
+  category: AI engineering
+  repo_url: https://github.com/TheRamU/Fay
+  sub-category: AI interface
+- Name: DeepSpeedExamples
+  category: Tutorials
+  repo_url: https://github.com/microsoft/DeepSpeedExamples
+  sub-category: .nan
+- Name: dvc
+  category: Infrastructure
+  repo_url: https://github.com/iterative/dvc
+  sub-category: Toolings
+- Name: promptbase
+  category: Tutorials
+  repo_url: https://github.com/microsoft/promptbase
+  sub-category: Prompt engineering
+- Name: gpuweb
+  category: Infrastructure
+  repo_url: https://github.com/gpuweb/gpuweb
+  sub-category: Compute management
+- Name: Painter
+  category: Model repo
+  repo_url: https://github.com/baaivision/Painter
+  sub-category: .nan
+- Name: TaskingAI
+  category: AI engineering
+  repo_url: https://github.com/TaskingAI/TaskingAI
+  sub-category: AIE framework
+- Name: Luotuo-Chinese-LLM
+  category: Model repo
+  repo_url: https://github.com/LC1332/Luotuo-Chinese-LLM
+  sub-category: Multilingual
+- Name: Mr.-Ranedeer-AI-Tutor
+  category: Applications
+  repo_url: https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor
+  sub-category: Education
+- Name: bot-on-anything
+  category: AI engineering
+  repo_url: https://github.com/zhayujie/bot-on-anything
+  sub-category: AI interface
+- Name: jina
+  category: Infrastructure
+  repo_url: https://github.com/jina-ai/jina
+  sub-category: Toolings
+- Name: kubeflow
+  category: Infrastructure
+  repo_url: https://github.com/kubeflow/kubeflow
+  sub-category: Compute management
+- Name: openchat
+  category: Model repo
+  repo_url: https://github.com/imoneoi/openchat
+  sub-category: .nan
+- Name: StableStudio
+  category: Applications
+  repo_url: https://github.com/Stability-AI/StableStudio
+  sub-category: Image production
+- Name: DALLE2-pytorch
+  category: Model repo
+  repo_url: https://github.com/lucidrains/DALLE2-pytorch
+  sub-category: .nan
+- Name: AudioGPT
+  category: Model repo
+  repo_url: https://github.com/AIGC-Audio/AudioGPT
+  sub-category: .nan
+- Name: bloop
+  category: Applications
+  repo_url: https://github.com/BloopAI/bloop
+  sub-category: Coding
+- Name: EverydayWechat
+  category: Applications
+  repo_url: https://github.com/sfyc23/EverydayWechat
+  sub-category: Bots
+- Name: chatgpt-advanced
+  category: Applications
+  repo_url: https://github.com/interstellard/chatgpt-advanced
+  sub-category: Bots
+- Name: DALL-E
+  category: Model repo
+  repo_url: https://github.com/openai/DALL-E
+  sub-category: Multimodal
+- Name: draw-a-ui
+  category: Applications
+  repo_url: https://github.com/SawyerHood/draw-a-ui
+  sub-category: Coding
+- Name: pythagora
+  category: Applications
+  repo_url: https://github.com/Pythagora-io/pythagora
+  sub-category: Coding
+- Name: LLMFarm
+  category: AI engineering
+  repo_url: https://github.com/guinmoon/LLMFarm
+  sub-category: AI interface
+- Name: llm-reasoners
+  category: AI engineering
+  repo_url: https://github.com/Ber666/llm-reasoners
+  sub-category: Prompt engineering
+- Name: leaked-system-prompts
+  category: AI engineering
+  repo_url: https://github.com/jujumilk3/leaked-system-prompts
+  sub-category: Prompt engineering
+- Name: streaming
+  category: Infrastructure
+  repo_url: https://github.com/mosaicml/streaming
+  sub-category: Data management
+- Name: promptfoo
+  category: AI engineering
+  repo_url: https://github.com/promptfoo/promptfoo
+  sub-category: Prompt engineering
+- Name: langchainrb
+  category: AI engineering
+  repo_url: https://github.com/andreibondarev/langchainrb
+  sub-category: AIE framework
+- Name: LLMCompiler
+  category: AI engineering
+  repo_url: https://github.com/SqueezeAILab/LLMCompiler
+  sub-category: AIE framework
+- Name: InternVideo
+  category: Model repo
+  repo_url: https://github.com/OpenGVLab/InternVideo
+  sub-category: Multimodal
+- Name: VisionLLM
+  category: Model repo
+  repo_url: https://github.com/OpenGVLab/VisionLLM
+  sub-category: Multimodal
+- Name: inference
+  category: Infrastructure
+  repo_url: https://github.com/roboflow/inference
+  sub-category: Serving
+- Name: LlamaIndexTS
+  category: AI engineering
+  repo_url: https://github.com/run-llama/LlamaIndexTS
+  sub-category: AIE framework
+- Name: hallucination-leaderboard
+  category: AI engineering
+  repo_url: https://github.com/vectara/hallucination-leaderboard
+  sub-category: Evals
+- Name: grade-school-math
+  category: AI engineering
+  repo_url: https://github.com/openai/grade-school-math
+  sub-category: Evals
+- Name: direct-preference-optimization
+  category: Model development
+  repo_url: https://github.com/eric-mitchell/direct-preference-optimization
+  sub-category: Modeling & training
+- Name: evalplus
+  category: AI engineering
+  repo_url: https://github.com/evalplus/evalplus
+  sub-category: Evals
+- Name: garak
+  category: AI engineering
+  repo_url: https://github.com/leondz/garak
+  sub-category: Evals
+- Name: smoothquant
+  category: Model development
+  repo_url: https://github.com/mit-han-lab/smoothquant
+  sub-category: Inference optimization
+- Name: webdataset
+  category: Infrastructure
+  repo_url: https://github.com/webdataset/webdataset
+  sub-category: Data management
+- Name: LGM
+  category: Model repo
+  repo_url: https://github.com/3DTopia/LGM
+  sub-category: Multimodal
+- Name: Cradle
+  category: Applications
+  repo_url: https://github.com/BAAI-Agents/Cradle
+  sub-category: Workflow automation
+- Name: Awesome-LLMOps
+  category: Lists
+  repo_url: https://github.com/tensorchord/Awesome-LLMOps
+  sub-category: .nan
+- Name: LookaheadDecoding
+  category: Model development
+  repo_url: https://github.com/hao-ai-lab/LookaheadDecoding
+  sub-category: Inference optimization
+- Name: magentic
+  category: AI engineering
+  repo_url: https://github.com/jackmpcollins/magentic
+  sub-category: Prompt engineering
+- Name: danswer
+  category: Applications
+  repo_url: https://github.com/danswer-ai/danswer
+  sub-category: Info aggregation
+- Name: LLM-Finetuning
+  category: Tutorials
+  repo_url: https://github.com/ashishpatel26/LLM-Finetuning
+  sub-category: .nan
+- Name: vocode-python
+  category: AI engineering
+  repo_url: https://github.com/vocodedev/vocode-python
+  sub-category: AI interface
+- Name: ELLA
+  category: Model repo
+  repo_url: https://github.com/ELLA-Diffusion/ELLA
+  sub-category: Multimodal
+- Name: reflexion
+  category: AI engineering
+  repo_url: https://github.com/noahshinn/reflexion
+  sub-category: Agent
+- Name: VMamba
+  category: Model repo
+  repo_url: https://github.com/MzeroMiko/VMamba
+  sub-category: Multimodal
+- Name: ALBEF
+  category: Model development
+  repo_url: https://github.com/salesforce/ALBEF
+  sub-category: Modeling & training
+- Name: test
+  category: AI engineering
+  repo_url: https://github.com/hendrycks/test
+  sub-category: Evals
+- Name: code-review-gpt
+  category: Applications
+  repo_url: https://github.com/mattzcarey/code-review-gpt
+  sub-category: Coding
+- Name: ShortGPT
+  category: Applications
+  repo_url: https://github.com/RayVentura/ShortGPT
+  sub-category: Video production
+- Name: ChainForge
+  category: AI engineering
+  repo_url: https://github.com/ianarawjo/ChainForge
+  sub-category: Prompt engineering
+- Name: gptscript
+  category: Applications
+  repo_url: https://github.com/gptscript-ai/gptscript
+  sub-category: Coding
+- Name: s4
+  category: Model repo
+  repo_url: https://github.com/state-spaces/s4
+  sub-category: .nan
+- Name: OneFormer
+  category: Model repo
+  repo_url: https://github.com/SHI-Labs/OneFormer
+  sub-category: .nan
+- Name: lag-llama
+  category: Model repo
+  repo_url: https://github.com/time-series-foundation-models/lag-llama
+  sub-category: .nan
+- Name: mimesis
+  category: AI engineering
+  repo_url: https://github.com/lk-geimfari/mimesis
+  sub-category: Dataset engineering
+- Name: MedicalGPT
+  category: Model development
+  repo_url: https://github.com/shibing624/MedicalGPT
+  sub-category: Modeling & training
+- Name: autotrain-advanced
+  category: Model development
+  repo_url: https://github.com/huggingface/autotrain-advanced
+  sub-category: Modeling & training
+- Name: opencommit
+  category: Applications
+  repo_url: https://github.com/di-sukharev/opencommit
+  sub-category: Coding
+- Name: BLIP
+  category: Model repo
+  repo_url: https://github.com/salesforce/BLIP
+  sub-category: Multimodal
+- Name: hh-rlhf
+  category: Model development
+  repo_url: https://github.com/anthropics/hh-rlhf
+  sub-category: Dataset engineering
+- Name: rebuff
+  category: AI engineering
+  repo_url: https://github.com/protectai/rebuff
+  sub-category: Prompt engineering
+- Name: BigDL
+  category: Model development
+  repo_url: https://github.com/intel-analytics/BigDL
+  sub-category: Inference optimization
+- Name: ipex-llm
+  category: Model development
+  repo_url: https://github.com/intel-analytics/ipex-llm
+  sub-category: Inference optimization
+- Name: ARC
+  category: AI engineering
+  repo_url: https://github.com/fchollet/ARC
+  sub-category: Evals
+- Name: mmdeploy
+  category: Infrastructure
+  repo_url: https://github.com/open-mmlab/mmdeploy
+  sub-category: Serving
+- Name: exllama
+  category: Model development
+  repo_url: https://github.com/turboderp/exllama
+  sub-category: Inference optimization
+- Name: PromptCraft-Robotics
+  category: AI engineering
+  repo_url: https://github.com/microsoft/PromptCraft-Robotics
+  sub-category: Prompt engineering
+- Name: bitsandbytes
+  category: Model development
+  repo_url: https://github.com/TimDettmers/bitsandbytes
+  sub-category: Inference optimization
+- Name: Voyager
+  category: Applications
+  repo_url: https://github.com/MineDojo/Voyager
+  sub-category: Bots
+- Name: YiVal
+  category: AI engineering
+  repo_url: https://github.com/YiVal/YiVal
+  sub-category: Prompt engineering
+- Name: llm-foundry
+  category: Model development
+  repo_url: https://github.com/mosaicml/llm-foundry
+  sub-category: Modeling & training
+- Name: Medical_NLP
+  category: Lists
+  repo_url: https://github.com/FreedomIntelligence/Medical_NLP
+  sub-category: .nan
+- Name: usearch
+  category: Infrastructure
+  repo_url: https://github.com/unum-cloud/usearch
+  sub-category: VectorDB
+- Name: LLMsPracticalGuide
+  category: Tutorials
+  repo_url: https://github.com/Mooler0410/LLMsPracticalGuide
+  sub-category: .nan
+- Name: DecryptPrompt
+  category: Lists
+  repo_url: https://github.com/DSXiangLi/DecryptPrompt
+  sub-category: .nan
+- Name: Ask-Anything
+  category: Model repo
+  repo_url: https://github.com/OpenGVLab/Ask-Anything
+  sub-category: Multimodal
+- Name: awesome-ai-in-finance
+  category: Tutorials
+  repo_url: https://github.com/georgezouq/awesome-ai-in-finance
+  sub-category: .nan
+- Name: agentkit
+  category: AI engineering
+  repo_url: https://github.com/BCG-X-Official/agentkit
+  sub-category: Agent
+- Name: improved-diffusion
+  category: Model repo
+  repo_url: https://github.com/openai/improved-diffusion
+  sub-category: Multimodal
+- Name: optax
+  category: Model development
+  repo_url: https://github.com/google-deepmind/optax
+  sub-category: Modeling & training
+- Name: semantra
+  category: Applications
+  repo_url: https://github.com/freedmand/semantra
+  sub-category: Data organization
+- Name: mindforger
+  category: Applications
+  repo_url: https://github.com/dvorka/mindforger
+  sub-category: Info aggregation
+- Name: bertviz
+  category: Model development
+  repo_url: https://github.com/jessevig/bertviz
+  sub-category: Toolings
+- Name: '01'
+  category: Applications
+  repo_url: https://github.com/KillianLucas/01
+  sub-category: Workflow automation
+- Name: ChatPaper
+  category: Applications
+  repo_url: https://github.com/kaixindelele/ChatPaper
+  sub-category: Info aggregation
+- Name: roop
+  category: Applications
+  repo_url: https://github.com/s0md3v/roop
+  sub-category: Image production
+- Name: lmql
+  category: AI engineering
+  repo_url: https://github.com/eth-sri/lmql
+  sub-category: Prompt engineering
+- Name: open_spiel
+  category: Model development
+  repo_url: https://github.com/google-deepmind/open_spiel
+  sub-category: Modeling & training
+- Name: stable-dreamfusion
+  category: Model repo
+  repo_url: https://github.com/ashawkey/stable-dreamfusion
+  sub-category: Multimodal
+- Name: mmagic
+  category: Model development
+  repo_url: https://github.com/open-mmlab/mmagic
+  sub-category: Modeling & training
+- Name: chatGPTBox
+  category: Applications
+  repo_url: https://github.com/josStorer/chatGPTBox
+  sub-category: Info aggregation
+- Name: awesome-pretrained-chinese-nlp-models
+  category: Lists
+  repo_url: https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models
+  sub-category: .nan
+- Name: Skywork
+  category: Model repo
+  repo_url: https://github.com/SkyworkAI/Skywork
+  sub-category: Multilingual
+- Name: OpenPrompt
+  category: AI engineering
+  repo_url: https://github.com/thunlp/OpenPrompt
+  sub-category: Prompt engineering
+- Name: InternLM-XComposer
+  category: Model repo
+  repo_url: https://github.com/InternLM/InternLM-XComposer
+  sub-category: Multimodal
+- Name: metaflow
+  category: Infrastructure
+  repo_url: https://github.com/Netflix/metaflow
+  sub-category: Compute management
+- Name: LLaMA-Adapter
+  category: Model repo
+  repo_url: https://github.com/OpenGVLab/LLaMA-Adapter
+  sub-category: .nan
+- Name: towhee
+  category: Model development
+  repo_url: https://github.com/towhee-io/towhee
+  sub-category: Dataset engineering
+- Name: griptape
+  category: AI engineering
+  repo_url: https://github.com/griptape-ai/griptape
+  sub-category: AIE framework
+- Name: XAgent
+  category: AI engineering
+  repo_url: https://github.com/OpenBMB/XAgent
+  sub-category: Agent
+- Name: TextAttack
+  category: Model development
+  repo_url: https://github.com/QData/TextAttack
+  sub-category: Dataset engineering
+- Name: spark-nlp
+  category: Model development
+  repo_url: https://github.com/JohnSnowLabs/spark-nlp
+  sub-category: Modeling & training
+- Name: simclr
+  category: Model repo
+  repo_url: https://github.com/google-research/simclr
+  sub-category: .nan
+- Name: ChatGLM3
+  category: Model repo
+  repo_url: https://github.com/THUDM/ChatGLM3
+  sub-category: Multilingual
+- Name: OpenPromptStudio
+  category: AI engineering
+  repo_url: https://github.com/Moonvy/OpenPromptStudio
+  sub-category: Prompt engineering
+- Name: openai-translator
+  category: Applications
+  repo_url: https://github.com/openai-translator/openai-translator
+  sub-category: Workflow automation
+- Name: ludwig
+  category: AI engineering
+  repo_url: https://github.com/ludwig-ai/ludwig
+  sub-category: AIE framework
+- Name: superagent
+  category: AI engineering
+  repo_url: https://github.com/homanp/superagent
+  sub-category: Agent
+- Name: qlora
+  category: Model development
+  repo_url: https://github.com/artidoro/qlora
+  sub-category: Modeling & training
+- Name: textdistance
+  category: AI engineering
+  repo_url: https://github.com/life4/textdistance
+  sub-category: Dataset engineering
+- Name: gpt-migrate
+  category: Applications
+  repo_url: https://github.com/joshpxyne/gpt-migrate
+  sub-category: Coding
+- Name: companion-app
+  category: Applications
+  repo_url: https://github.com/a16z-infra/companion-app
+  sub-category: Bots
+- Name: shap-e
+  category: Model repo
+  repo_url: https://github.com/openai/shap-e
+  sub-category: Multimodal
+- Name: JARVIS
+  category: AI engineering
+  repo_url: https://github.com/microsoft/JARVIS
+  sub-category: Agent
+- Name: gpt-code-ui
+  category: Applications
+  repo_url: https://github.com/ricklamers/gpt-code-ui
+  sub-category: Coding
+- Name: annoy
+  category: Infrastructure
+  repo_url: https://github.com/spotify/annoy
+  sub-category: VectorDB
+- Name: flair
+  category: AI engineering
+  repo_url: https://github.com/flairNLP/flair
+  sub-category: AIE framework
+- Name: street-fighter-ai
+  category: Applications
+  repo_url: https://github.com/linyiLYi/street-fighter-ai
+  sub-category: Bots
+- Name: metaseq
+  category: Model development
+  repo_url: https://github.com/facebookresearch/metaseq
+  sub-category: Modeling & training
+- Name: VisualGLM-6B
+  category: Model repo
+  repo_url: https://github.com/THUDM/VisualGLM-6B
+  sub-category: Multimodal
+- Name: GPT-4-LLM
+  category: Model development
+  repo_url: https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM
+  sub-category: Dataset engineering
+- Name: GPTQ-for-LLaMa
+  category: Model development
+  repo_url: https://github.com/qwopqwop200/GPTQ-for-LLaMa
+  sub-category: Inference optimization
+- Name: OpenCopilot
+  category: Applications
+  repo_url: https://github.com/openchatai/OpenCopilot
+  sub-category: Workflow automation
+- Name: OpenChat
+  category: Applications
+  repo_url: https://github.com/openchatai/OpenChat
+  sub-category: Workflow automation
+- Name: LWM
+  category: Model repo
+  repo_url: https://github.com/LargeWorldModel/LWM
+  sub-category: .nan
+- Name: web-stable-diffusion
+  category: Applications
+  repo_url: https://github.com/mlc-ai/web-stable-diffusion
+  sub-category: Image production
+- Name: fauxpilot
+  category: Applications
+  repo_url: https://github.com/fauxpilot/fauxpilot
+  sub-category: Coding
+- Name: ChuanhuChatGPT
+  category: AI engineering
+  repo_url: https://github.com/GaiZhenbiao/ChuanhuChatGPT
+  sub-category: AI interface
+- Name: Yi
+  category: Model repo
+  repo_url: https://github.com/01-ai/Yi
+  sub-category: .nan
+- Name: gpt4free-ts
+  category: AI engineering
+  repo_url: https://github.com/xiangsx/gpt4free-ts
+  sub-category: AI interface
+- Name: developer
+  category: AI engineering
+  repo_url: https://github.com/smol-ai/developer
+  sub-category: Agent
+- Name: alpaca.cpp
+  category: Applications
+  repo_url: https://github.com/antimatter15/alpaca.cpp
+  sub-category: Bots
+- Name: dream-textures
+  category: Applications
+  repo_url: https://github.com/carson-katri/dream-textures
+  sub-category: Image production
+- Name: gpt-prompt-engineer
+  category: AI engineering
+  repo_url: https://github.com/mshumer/gpt-prompt-engineer
+  sub-category: Prompt engineering
+- Name: Time-LLM
+  category: AI engineering
+  repo_url: https://github.com/KimMeen/Time-LLM
+  sub-category: AIE framework
+- Name: zep
+  category: AI engineering
+  repo_url: https://github.com/getzep/zep
+  sub-category: AIE framework
+- Name: Panora
+  category: AI engineering
+  repo_url: https://github.com/panoratech/Panora
+  sub-category: AIE framework
+- Name: sparrow
+  category: Applications
+  repo_url: https://github.com/katanaml/sparrow
+  sub-category: Workflow automation
+- Name: Agently
+  category: AI engineering
+  repo_url: https://github.com/Maplemx/Agently
+  sub-category: Agent
+- Name: SWE-bench
+  category: AI engineering
+  repo_url: https://github.com/princeton-nlp/SWE-bench
+  sub-category: Evals
+- Name: ImageReward
+  category: Model repo
+  repo_url: https://github.com/THUDM/ImageReward
+  sub-category: Multimodal
+- Name: nlm-ingestor
+  category: Applications
+  repo_url: https://github.com/nlmatics/nlm-ingestor
+  sub-category: Info aggregation
+- Name: inference
+  category: AI engineering
+  repo_url: https://github.com/mlcommons/inference
+  sub-category: Evals
+- Name: tango
+  category: Model repo
+  repo_url: https://github.com/declare-lab/tango
+  sub-category: Multimodal
+- Name: maxtext
+  category: Model repo
+  repo_url: https://github.com/google/maxtext
+  sub-category: .nan
+- Name: Medusa
+  category: Model development
+  repo_url: https://github.com/FasterDecoding/Medusa
+  sub-category: Inference optimization
+- Name: lightning-thunder
+  category: Model development
+  repo_url: https://github.com/Lightning-AI/lightning-thunder
+  sub-category: Inference optimization
+- Name: agenta
+  category: AI engineering
+  repo_url: https://github.com/Agenta-AI/agenta
+  sub-category: AIE framework
+- Name: ReAct
+  category: AI engineering
+  repo_url: https://github.com/ysymyth/ReAct
+  sub-category: Prompt engineering
+- Name: trulens
+  category: AI engineering
+  repo_url: https://github.com/truera/trulens
+  sub-category: Evals
+- Name: ml-4m
+  category: Model repo
+  repo_url: https://github.com/apple/ml-4m
+  sub-category: .nan
+- Name: EasyEdit
+  category: AI engineering
+  repo_url: https://github.com/zjunlp/EasyEdit
+  sub-category: Prompt engineering
+- Name: scenic
+  category: Model development
+  repo_url: https://github.com/google-research/scenic
+  sub-category: Modeling & training
+- Name: fastRAG
+  category: AI engineering
+  repo_url: https://github.com/IntelLabs/fastRAG
+  sub-category: AIE framework
+- Name: katib
+  category: Model development
+  repo_url: https://github.com/kubeflow/katib
+  sub-category: Modeling & training
+- Name: core
+  category: AI engineering
+  repo_url: https://github.com/cheshire-cat-ai/core
+  sub-category: AIE framework
+- Name: SwissArmyTransformer
+  category: Model repo
+  repo_url: https://github.com/THUDM/SwissArmyTransformer
+  sub-category: .nan
+- Name: AutoAgents
+  category: AI engineering
+  repo_url: https://github.com/Link-AGI/AutoAgents
+  sub-category: Agent
+- Name: picoGPT
+  category: Model repo
+  repo_url: https://github.com/jaymody/picoGPT
+  sub-category: .nan
+- Name: cutlass
+  category: Model development
+  repo_url: https://github.com/NVIDIA/cutlass
+  sub-category: Inference optimization
+- Name: knowledge
+  category: Applications
+  repo_url: https://github.com/KnowledgeCanvas/knowledge
+  sub-category: Info aggregation
+- Name: Llama-X
+  category: Model development
+  repo_url: https://github.com/AetherCortex/Llama-X
+  sub-category: Modeling & training
+- Name: ruby-openai
+  category: AI engineering
+  repo_url: https://github.com/alexrudall/ruby-openai
+  sub-category: AI interface
+- Name: Emu
+  category: Model repo
+  repo_url: https://github.com/baaivision/Emu
+  sub-category: Multimodal
+- Name: megablocks
+  category: Model development
+  repo_url: https://github.com/databricks/megablocks
+  sub-category: Modeling & training
+- Name: langserve
+  category: Infrastructure
+  repo_url: https://github.com/langchain-ai/langserve
+  sub-category: Serving
+- Name: morphic
+  category: Applications
+  repo_url: https://github.com/miurla/morphic
+  sub-category: Bots
+- Name: RL4LMs
+  category: Model development
+  repo_url: https://github.com/allenai/RL4LMs
+  sub-category: Modeling & training
+- Name: FinRL-Meta
+  category: Model development
+  repo_url: https://github.com/AI4Finance-Foundation/FinRL-Meta
+  sub-category: Dataset engineering
+- Name: thefuzz
+  category: AI engineering
+  repo_url: https://github.com/seatgeek/thefuzz
+  sub-category: Dataset engineering
+- Name: refact
+  category: Applications
+  repo_url: https://github.com/smallcloudai/refact
+  sub-category: Coding
+- Name: LLM-Adapters
+  category: Model development
+  repo_url: https://github.com/AGI-Edgerunners/LLM-Adapters
+  sub-category: Modeling & training
+- Name: llm-chain
+  category: AI engineering
+  repo_url: https://github.com/sobelio/llm-chain
+  sub-category: AIE framework
+- Name: AI-Horde
+  category: Infrastructure
+  repo_url: https://github.com/Haidra-Org/AI-Horde
+  sub-category: Compute management
+- Name: neural-compressor
+  category: Model development
+  repo_url: https://github.com/intel/neural-compressor
+  sub-category: Inference optimization
+- Name: deduplicate-text-datasets
+  category: AI engineering
+  repo_url: https://github.com/google-research/deduplicate-text-datasets
+  sub-category: Dataset engineering
+- Name: PettingZoo
+  category: AI engineering
+  repo_url: https://github.com/Farama-Foundation/PettingZoo
+  sub-category: Agent
+- Name: Vim
+  category: Model repo
+  repo_url: https://github.com/hustvl/Vim
+  sub-category: Multimodal
+- Name: coffee
+  category: Applications
+  repo_url: https://github.com/Coframe/coffee
+  sub-category: Coding
+- Name: SEINE
+  category: Model repo
+  repo_url: https://github.com/Vchitect/SEINE
+  sub-category: Multimodal
+- Name: restorePhotos
+  category: Applications
+  repo_url: https://github.com/Nutlope/restorePhotos
+  sub-category: Image production
+- Name: OpenAgents
+  category: Applications
+  repo_url: https://github.com/xlang-ai/OpenAgents
+  sub-category: Workflow automation
+- Name: llm-vscode
+  category: Applications
+  repo_url: https://github.com/huggingface/llm-vscode
+  sub-category: Coding
+- Name: generative-ai-swift
+  category: AI engineering
+  repo_url: https://github.com/google/generative-ai-swift
+  sub-category: AIE framework
+- Name: open-instruct
+  category: Model development
+  repo_url: https://github.com/allenai/open-instruct
+  sub-category: Modeling & training
+- Name: gemma_pytorch
+  category: Model repo
+  repo_url: https://github.com/google/gemma_pytorch
+  sub-category: Multimodal
+- Name: vespa
+  category: Infrastructure
+  repo_url: https://github.com/vespa-engine/vespa
+  sub-category: VectorDB
+- Name: OpenDelta
+  category: Model development
+  repo_url: https://github.com/thunlp/OpenDelta
+  sub-category: Modeling & training
+- Name: self-rewarding-lm-pytorch
+  category: Model development
+  repo_url: https://github.com/lucidrains/self-rewarding-lm-pytorch
+  sub-category: Modeling & training
+- Name: hnswlib
+  category: Infrastructure
+  repo_url: https://github.com/nmslib/hnswlib
+  sub-category: VectorDB
+- Name: headshots-starter
+  category: Applications
+  repo_url: https://github.com/leap-ai/headshots-starter
+  sub-category: Image production
+- Name: vdp
+  category: AI engineering
+  repo_url: https://github.com/instill-ai/vdp
+  sub-category: AIE framework
+- Name: lorax
+  category: Infrastructure
+  repo_url: https://github.com/predibase/lorax
+  sub-category: Serving
+- Name: obsidian-textgenerator-plugin
+  category: Applications
+  repo_url: https://github.com/nhaouari/obsidian-textgenerator-plugin
+  sub-category: Writing
+- Name: FLAN
+  category: Model repo
+  repo_url: https://github.com/google-research/FLAN
+  sub-category: .nan
+- Name: alpaca_eval
+  category: AI engineering
+  repo_url: https://github.com/tatsu-lab/alpaca_eval
+  sub-category: Evals
+- Name: prompttools
+  category: AI engineering
+  repo_url: https://github.com/hegelai/prompttools
+  sub-category: Prompt engineering
+- Name: promptsource
+  category: AI engineering
+  repo_url: https://github.com/bigscience-workshop/promptsource
+  sub-category: Prompt engineering
+- Name: OpenAGI
+  category: AI engineering
+  repo_url: https://github.com/agiresearch/OpenAGI
+  sub-category: Agent
+- Name: CodeT5
+  category: Model repo
+  repo_url: https://github.com/salesforce/CodeT5
+  sub-category: .nan
+- Name: KnowLM
+  category: Model repo
+  repo_url: https://github.com/zjunlp/KnowLM
+  sub-category: Multilingual
+- Name: guided-diffusion
+  category: Model repo
+  repo_url: https://github.com/openai/guided-diffusion
+  sub-category: Multimodal
+- Name: OpenPipe
+  category: Model development
+  repo_url: https://github.com/OpenPipe/OpenPipe
+  sub-category: Modeling & training
+- Name: GeneFace
+  category: Model repo
+  repo_url: https://github.com/yerfor/GeneFace
+  sub-category: Multimodal
+- Name: nougat
+  category: Applications
+  repo_url: https://github.com/facebookresearch/nougat
+  sub-category: Info aggregation
+- Name: MOSS-RLHF
+  category: Model development
+  repo_url: https://github.com/OpenLMLab/MOSS-RLHF
+  sub-category: Modeling & training
+- Name: postgresml
+  category: AI engineering
+  repo_url: https://github.com/postgresml/postgresml
+  sub-category: AI interface
+- Name: gorilla-cli
+  category: Applications
+  repo_url: https://github.com/gorilla-llm/gorilla-cli
+  sub-category: Coding
+- Name: LLM-Blender
+  category: Model development
+  repo_url: https://github.com/yuchenlin/LLM-Blender
+  sub-category: Modeling & training
+- Name: alpa
+  category: Model development
+  repo_url: https://github.com/alpa-projects/alpa
+  sub-category: Modeling & training
+- Name: whylogs
+  category: Infrastructure
+  repo_url: https://github.com/whylabs/whylogs
+  sub-category: Monitoring
+- Name: khoj
+  category: Applications
+  repo_url: https://github.com/khoj-ai/khoj
+  sub-category: Info aggregation
+- Name: alphageometry
+  category: Model repo
+  repo_url: https://github.com/google-deepmind/alphageometry
+  sub-category: Multimodal
+- Name: meditron
+  category: Model repo
+  repo_url: https://github.com/epfLLM/meditron
+  sub-category: .nan
+- Name: tree
+  category: AI engineering
+  repo_url: https://github.com/google-deepmind/tree
+  sub-category: Dataset engineering
+- Name: superduperdb
+  category: Infrastructure
+  repo_url: https://github.com/SuperDuperDB/superduperdb
+  sub-category: Data management
+- Name: petals
+  category: Model development
+  repo_url: https://github.com/bigscience-workshop/petals
+  sub-category: Inference optimization
+- Name: WeightWatcher
+  category: AI engineering
+  repo_url: https://github.com/CalculatedContent/WeightWatcher
+  sub-category: Evals
+- Name: CyberWaifu
+  category: Applications
+  repo_url: https://github.com/Syan-Lin/CyberWaifu
+  sub-category: Bots
+- Name: shell-ai
+  category: Applications
+  repo_url: https://github.com/ricklamers/shell-ai
+  sub-category: Coding
+- Name: awesome-langchain
+  category: Tutorials
+  repo_url: https://github.com/kyrolabs/awesome-langchain
+  sub-category: .nan
+- Name: datasketch
+  category: AI engineering
+  repo_url: https://github.com/ekzhu/datasketch
+  sub-category: Dataset engineering
+- Name: autolabel
+  category: Model development
+  repo_url: https://github.com/refuel-ai/autolabel
+  sub-category: Dataset engineering
+- Name: moa
+  category: AI engineering
+  repo_url: https://github.com/togethercomputer/moa
+  sub-category: Agent
+- Name: self-instruct
+  category: AI engineering
+  repo_url: https://github.com/yizhongw/self-instruct
+  sub-category: Dataset engineering
+- Name: Alpaca-CoT
+  category: Model development
+  repo_url: https://github.com/PhoebusSi/Alpaca-CoT
+  sub-category: Modeling & training
+- Name: auto-code-rover
+  category: Applications
+  repo_url: https://github.com/nus-apr/auto-code-rover
+  sub-category: Coding
+- Name: silero-models
+  category: Model repo
+  repo_url: https://github.com/snakers4/silero-models
+  sub-category: Multimodal
+- Name: axflow
+  category: AI engineering
+  repo_url: https://github.com/axflow/axflow
+  sub-category: AIE framework
+- Name: jetson-inference
+  category: Infrastructure
+  repo_url: https://github.com/dusty-nv/jetson-inference
+  sub-category: Serving
+- Name: OpenDAN-Personal-AI-OS
+  category: Applications
+  repo_url: https://github.com/fiatrete/OpenDAN-Personal-AI-OS
+  sub-category: Workflow automation
+- Name: UltraChat
+  category: Model development
+  repo_url: https://github.com/thunlp/UltraChat
+  sub-category: Dataset engineering
+- Name: Eureka
+  category: Model development
+  repo_url: https://github.com/eureka-research/Eureka
+  sub-category: Modeling & training
+- Name: uTensor
+  category: Model development
+  repo_url: https://github.com/uTensor/uTensor
+  sub-category: Inference optimization
+- Name: trlx
+  category: Model development
+  repo_url: https://github.com/CarperAI/trlx
+  sub-category: Modeling & training
+- Name: donut
+  category: Model repo
+  repo_url: https://github.com/clovaai/donut
+  sub-category: Multimodal
+- Name: Video-Pre-Training
+  category: Model repo
+  repo_url: https://github.com/openai/Video-Pre-Training
+  sub-category: Multimodal
+- Name: prompt-engine
+  category: AI engineering
+  repo_url: https://github.com/microsoft/prompt-engine
+  sub-category: Prompt engineering
+- Name: xTuring
+  category: Model development
+  repo_url: https://github.com/stochasticai/xTuring
+  sub-category: Modeling & training
+- Name: leptonai
+  category: AI engineering
+  repo_url: https://github.com/leptonai/leptonai
+  sub-category: AIE framework
+- Name: lida
+  category: Model repo
+  repo_url: https://github.com/microsoft/lida
+  sub-category: Multimodal
+- Name: Lumos
+  category: Applications
+  repo_url: https://github.com/andrewnguonly/Lumos
+  sub-category: Workflow automation
+- Name: acme
+  category: Model development
+  repo_url: https://github.com/google-deepmind/acme
+  sub-category: Modeling & training
+- Name: refinery
+  category: Applications
+  repo_url: https://github.com/code-kern-ai/refinery
+  sub-category: .nan
+- Name: multimodal
+  category: Model development
+  repo_url: https://github.com/facebookresearch/multimodal
+  sub-category: Modeling & training
+- Name: BotSharp
+  category: AI engineering
+  repo_url: https://github.com/SciSharp/BotSharp
+  sub-category: Agent
+- Name: DALI
+  category: Model repo
+  repo_url: https://github.com/NVIDIA/DALI
+  sub-category: .nan
+- Name: aicover
+  category: Applications
+  repo_url: https://github.com/all-in-aigc/aicover
+  sub-category: Image production
+- Name: ToolBench
+  category: AI engineering
+  repo_url: https://github.com/OpenBMB/ToolBench
+  sub-category: AIE framework
+- Name: dot
+  category: Applications
+  repo_url: https://github.com/sensity-ai/dot
+  sub-category: Image production
+- Name: i-Code
+  category: Model development
+  repo_url: https://github.com/microsoft/i-Code
+  sub-category: Modeling & training
+- Name: adapters
+  category: Model development
+  repo_url: https://github.com/adapter-hub/adapters
+  sub-category: Modeling & training
+- Name: t5x
+  category: Model development
+  repo_url: https://github.com/google-research/t5x
+  sub-category: Modeling & training
+- Name: rags
+  category: Applications
+  repo_url: https://github.com/run-llama/rags
+  sub-category: Info aggregation
+- Name: multinerf
+  category: Model repo
+  repo_url: https://github.com/google-research/multinerf
+  sub-category: .nan
+- Name: ReplitLM
+  category: Model repo
+  repo_url: https://github.com/replit/ReplitLM
+  sub-category: .nan
+- Name: natural-instructions
+  category: AI engineering
+  repo_url: https://github.com/allenai/natural-instructions
+  sub-category: Evals
+- Name: FLAML
+  category: AI engineering
+  repo_url: https://github.com/microsoft/FLAML
+  sub-category: AIE framework
+- Name: search_with_lepton
+  category: AI engineering
+  repo_url: https://github.com/leptonai/search_with_lepton
+  sub-category: AIE framework
+- Name: pdfGPT
+  category: Applications
+  repo_url: https://github.com/bhaskatripathi/pdfGPT
+  sub-category: Info aggregation
+- Name: torchscale
+  category: Model development
+  repo_url: https://github.com/microsoft/torchscale
+  sub-category: Modeling & training
+- Name: deeplake
+  category: Infrastructure
+  repo_url: https://github.com/activeloopai/deeplake
+  sub-category: VectorDB
+- Name: awesome-ai-painting
+  category: Tutorials
+  repo_url: https://github.com/hua1995116/awesome-ai-painting
+  sub-category: .nan
+- Name: LLM-ToolMaker
+  category: Model repo
+  repo_url: https://github.com/ctlllll/LLM-ToolMaker
+  sub-category: .nan
+- Name: MochiDiffusion
+  category: Applications
+  repo_url: https://github.com/godly-devotion/MochiDiffusion
+  sub-category: Image production
+- Name: codellama
+  category: Model repo
+  repo_url: https://github.com/facebookresearch/codellama
+  sub-category: .nan
+- Name: myGPTReader
+  category: Applications
+  repo_url: https://github.com/madawei2699/myGPTReader
+  sub-category: Info aggregation
+- Name: api-for-open-llm
+  category: AI engineering
+  repo_url: https://github.com/xusenlinzy/api-for-open-llm
+  sub-category: AI interface
+- Name: lora
+  category: Model development
+  repo_url: https://github.com/cloneofsimo/lora
+  sub-category: Modeling & training
+- Name: gemma
+  category: Model repo
+  repo_url: https://github.com/google-deepmind/gemma
+  sub-category: Multimodal
+- Name: consistency_models
+  category: Model repo
+  repo_url: https://github.com/openai/consistency_models
+  sub-category: Multimodal
+- Name: clip-as-service
+  category: AI engineering
+  repo_url: https://github.com/jina-ai/clip-as-service
+  sub-category: AI interface
+- Name: fast-stable-diffusion
+  category: Applications
+  repo_url: https://github.com/TheLastBen/fast-stable-diffusion
+  sub-category: Image production
+- Name: IF
+  category: Model repo
+  repo_url: https://github.com/deep-floyd/IF
+  sub-category: Multimodal
+- Name: streaming-llm
+  category: AI engineering
+  repo_url: https://github.com/mit-han-lab/streaming-llm
+  sub-category: Prompt engineering
+- Name: AgentTuning
+  category: AI engineering
+  repo_url: https://github.com/THUDM/AgentTuning
+  sub-category: Agent
+- Name: gpt4-pdf-chatbot-langchain
+  category: Applications
+  repo_url: https://github.com/mayooear/gpt4-pdf-chatbot-langchain
+  sub-category: Info aggregation
+- Name: finetuner
+  category: Model development
+  repo_url: https://github.com/jina-ai/finetuner
+  sub-category: Modeling & training
+- Name: serving
+  category: Infrastructure
+  repo_url: https://github.com/tensorflow/serving
+  sub-category: Serving
+- Name: baize-chatbot
+  category: Model repo
+  repo_url: https://github.com/project-baize/baize-chatbot
+  sub-category: .nan
+- Name: LMFlow
+  category: Model development
+  repo_url: https://github.com/OptimalScale/LMFlow
+  sub-category: Modeling & training
+- Name: fastllm
+  category: Model development
+  repo_url: https://github.com/ztxz16/fastllm
+  sub-category: Inference optimization
+- Name: wenda
+  category: AI engineering
+  repo_url: https://github.com/wenda-LLM/wenda
+  sub-category: AIE framework
+- Name: disco-diffusion
+  category: Model repo
+  repo_url: https://github.com/alembics/disco-diffusion
+  sub-category: .nan
+- Name: snorkel
+  category: Model development
+  repo_url: https://github.com/snorkel-team/snorkel
+  sub-category: Dataset engineering
+- Name: sonnet
+  category: Model development
+  repo_url: https://github.com/google-deepmind/sonnet
+  sub-category: Modeling & training
+- Name: llama-hub
+  category: Infrastructure
+  repo_url: https://github.com/run-llama/llama-hub
+  sub-category: Data management
+- Name: lab
+  category: Model development
+  repo_url: https://github.com/google-deepmind/lab
+  sub-category: Modeling & training
+- Name: coze-discord-proxy
+  category: AI engineering
+  repo_url: https://github.com/deanxv/coze-discord-proxy
+  sub-category: AI interface
+- Name: gpt-ai-assistant
+  category: Applications
+  repo_url: https://github.com/memochou1993/gpt-ai-assistant
+  sub-category: Bots
+- Name: GLM-130B
+  category: Model repo
+  repo_url: https://github.com/THUDM/GLM-130B
+  sub-category: Multilingual
+- Name: discoart
+  category: Applications
+  repo_url: https://github.com/jina-ai/discoart
+  sub-category: Image production
+- Name: nebuly
+  category: Infrastructure
+  repo_url: https://github.com/nebuly-ai/nebuly
+  sub-category: Monitoring
+- Name: chatgpt-retrieval-plugin
+  category: Applications
+  repo_url: https://github.com/openai/chatgpt-retrieval-plugin
+  sub-category: Bots
+- Name: TaskMatrix
+  category: Model repo
+  repo_url: https://github.com/microsoft/TaskMatrix
+  sub-category: Multimodal
+- Name: machinelearning
+  category: Model development
+  repo_url: https://github.com/dotnet/machinelearning
+  sub-category: Modeling & training
+- Name: segment-anything-fast
+  category: Model development
+  repo_url: https://github.com/pytorch-labs/segment-anything-fast
+  sub-category: Inference optimization
+- Name: modelfusion
+  category: AI engineering
+  repo_url: https://github.com/vercel/modelfusion
+  sub-category: AIE framework
+- Name: llm-security
+  category: AI engineering
+  repo_url: https://github.com/greshake/llm-security
+  sub-category: Prompt engineering
+- Name: fern
+  category: Applications
+  repo_url: https://github.com/fern-api/fern
+  sub-category: Coding
+- Name: LAMA
+  category: AI engineering
+  repo_url: https://github.com/facebookresearch/LAMA
+  sub-category: Evals
+- Name: llama2-webui
+  category: Applications
+  repo_url: https://github.com/liltom-eth/llama2-webui
+  sub-category: Bots
+- Name: chatgpt-mac
+  category: Applications
+  repo_url: https://github.com/vincelwt/chatgpt-mac
+  sub-category: Bots
+- Name: CodeGeeX2
+  category: Model repo
+  repo_url: https://github.com/THUDM/CodeGeeX2
+  sub-category: .nan
+- Name: dolly
+  category: Model repo
+  repo_url: https://github.com/databrickslabs/dolly
+  sub-category: .nan
+- Name: dalai
+  category: Applications
+  repo_url: https://github.com/cocktailpeanut/dalai
+  sub-category: Bots
+- Name: ChatGLM2-6B
+  category: Model repo
+  repo_url: https://github.com/THUDM/ChatGLM2-6B
+  sub-category: Multilingual
+- Name: chatgpt-demo
+  category: Applications
+  repo_url: https://github.com/anse-app/chatgpt-demo
+  sub-category: Bots
+- Name: ivy
+  category: Infrastructure
+  repo_url: https://github.com/unifyai/ivy
+  sub-category: Toolings
+- Name: llm-guard
+  category: AI engineering
+  repo_url: https://github.com/laiyer-ai/llm-guard
+  sub-category: Prompt engineering
+- Name: readme-ai
+  category: Applications
+  repo_url: https://github.com/eli64s/readme-ai
+  sub-category: Coding
+- Name: raptor
+  category: AI engineering
+  repo_url: https://github.com/parthsarthi03/raptor
+  sub-category: AIE framework
+- Name: agent-protocol
+  category: AI engineering
+  repo_url: https://github.com/AI-Engineer-Foundation/agent-protocol
+  sub-category: Agent
+- Name: graph-of-thoughts
+  category: AI engineering
+  repo_url: https://github.com/spcl/graph-of-thoughts
+  sub-category: Prompt engineering
+- Name: big_vision
+  category: Model development
+  repo_url: https://github.com/google-research/big_vision
+  sub-category: Modeling & training
+- Name: chatd
+  category: Applications
+  repo_url: https://github.com/BruceMacD/chatd
+  sub-category: Info aggregation
+- Name: spacy-llm
+  category: AI engineering
+  repo_url: https://github.com/explosion/spacy-llm
+  sub-category: Prompt engineering
+- Name: evo
+  category: Model repo
+  repo_url: https://github.com/evo-design/evo
+  sub-category: Multimodal
+- Name: beir
+  category: AI engineering
+  repo_url: https://github.com/beir-cellar/beir
+  sub-category: Evals
+- Name: vision-agent
+  category: AI engineering
+  repo_url: https://github.com/landing-ai/vision-agent
+  sub-category: Agent
+- Name: AutoPR
+  category: Applications
+  repo_url: https://github.com/irgolic/AutoPR
+  sub-category: Coding
+- Name: lunary
+  category: Infrastructure
+  repo_url: https://github.com/lunary-ai/lunary
+  sub-category: Monitoring
+- Name: llmonitor
+  category: Infrastructure
+  repo_url: https://github.com/llmonitor/llmonitor
+  sub-category: Monitoring
+- Name: LISA
+  category: Model repo
+  repo_url: https://github.com/dvlab-research/LISA
+  sub-category: Multimodal
+- Name: windows-ai-studio
+  category: AI engineering
+  repo_url: https://github.com/microsoft/windows-ai-studio
+  sub-category: AIE framework
+- Name: training-operator
+  category: Model development
+  repo_url: https://github.com/kubeflow/training-operator
+  sub-category: Modeling & training
+- Name: AQLM
+  category: Model development
+  repo_url: https://github.com/Vahe1994/AQLM
+  sub-category: Inference optimization
+- Name: llm.report
+  category: Infrastructure
+  repo_url: https://github.com/dillionverma/llm.report
+  sub-category: Monitoring
+- Name: ToRA
+  category: Model repo
+  repo_url: https://github.com/microsoft/ToRA
+  sub-category: .nan
+- Name: Taiwan-LLM
+  category: Model repo
+  repo_url: https://github.com/MiuLab/Taiwan-LLM
+  sub-category: Multilingual
+- Name: MineDojo
+  category: AI engineering
+  repo_url: https://github.com/MineDojo/MineDojo
+  sub-category: Agent
+- Name: sd-dynamic-prompts
+  category: AI engineering
+  repo_url: https://github.com/adieyal/sd-dynamic-prompts
+  sub-category: Prompt engineering
+- Name: CodeXGLUE
+  category: AI engineering
+  repo_url: https://github.com/microsoft/CodeXGLUE
+  sub-category: Evals
+- Name: voyager
+  category: Infrastructure
+  repo_url: https://github.com/spotify/voyager
+  sub-category: VectorDB
+- Name: gpt-repository-loader
+  category: Applications
+  repo_url: https://github.com/mpoon/gpt-repository-loader
+  sub-category: Coding
+- Name: swirl-search
+  category: Applications
+  repo_url: https://github.com/swirlai/swirl-search
+  sub-category: Info aggregation
+- Name: mentat
+  category: Applications
+  repo_url: https://github.com/AbanteAI/mentat
+  sub-category: Coding
+- Name: GLIGEN
+  category: Model repo
+  repo_url: https://github.com/gligen/GLIGEN
+  sub-category: Multimodal
+- Name: openai-kotlin
+  category: AI engineering
+  repo_url: https://github.com/aallam/openai-kotlin
+  sub-category: AI interface
+- Name: instructor-embedding
+  category: Model development
+  repo_url: https://github.com/xlang-ai/instructor-embedding
+  sub-category: Modeling & training
+- Name: sorafm
+  category: Applications
+  repo_url: https://github.com/all-in-aigc/sorafm
+  sub-category: Video production
+- Name: gptq
+  category: Model development
+  repo_url: https://github.com/IST-DASLab/gptq
+  sub-category: Inference optimization
+- Name: RAGxplorer
+  category: AI engineering
+  repo_url: https://github.com/gabrielchua/RAGxplorer
+  sub-category: AIE framework
+- Name: VisCPM
+  category: Model repo
+  repo_url: https://github.com/OpenBMB/VisCPM
+  sub-category: Multimodal
+- Name: MotionGPT
+  category: Model repo
+  repo_url: https://github.com/OpenMotionLab/MotionGPT
+  sub-category: Multimodal
+- Name: FRIDAY
+  category: Applications
+  repo_url: https://github.com/OS-Copilot/FRIDAY
+  sub-category: Workflow automation
+- Name: gemma.cpp
+  category: Model development
+  repo_url: https://github.com/google/gemma.cpp
+  sub-category: Inference optimization
+- Name: spreadsheets-are-all-you-need
+  category: Tutorials
+  repo_url: https://github.com/ianand/spreadsheets-are-all-you-need
+  sub-category: .nan
+- Name: graphcast
+  category: Model development
+  repo_url: https://github.com/google-deepmind/graphcast
+  sub-category: Modeling & training
+- Name: EasyLM
+  category: Model development
+  repo_url: https://github.com/young-geng/EasyLM
+  sub-category: Modeling & training
+- Name: evaluate
+  category: AI engineering
+  repo_url: https://github.com/huggingface/evaluate
+  sub-category: Evals
+- Name: language
+  category: Model repo
+  repo_url: https://github.com/google-research/language
+  sub-category: .nan
+- Name: ray-llm
+  category: Infrastructure
+  repo_url: https://github.com/ray-project/ray-llm
+  sub-category: Serving
+- Name: MONAI
+  category: Model development
+  repo_url: https://github.com/Project-MONAI/MONAI
+  sub-category: Modeling & training
+- Name: aistore
+  category: Infrastructure
+  repo_url: https://github.com/NVIDIA/aistore
+  sub-category: Data management
+- Name: prompt-engineering
+  category: Tutorials
+  repo_url: https://github.com/brexhq/prompt-engineering
+  sub-category: Prompt engineering
+- Name: rivet
+  category: AI engineering
+  repo_url: https://github.com/Ironclad/rivet
+  sub-category: Agent
+- Name: bisheng
+  category: AI engineering
+  repo_url: https://github.com/dataelement/bisheng
+  sub-category: AIE framework
+- Name: anse
+  category: AI engineering
+  repo_url: https://github.com/anse-app/anse
+  sub-category: AI interface
+- Name: aiconfig
+  category: AI engineering
+  repo_url: https://github.com/lastmile-ai/aiconfig
+  sub-category: .nan
+- Name: canopy
+  category: AI engineering
+  repo_url: https://github.com/pinecone-io/canopy
+  sub-category: AIE framework
+- Name: dm-haiku
+  category: Model development
+  repo_url: https://github.com/google-deepmind/dm-haiku
+  sub-category: Modeling & training
+- Name: autollm
+  category: AI engineering
+  repo_url: https://github.com/safevideo/autollm
+  sub-category: AIE framework
+- Name: aiac
+  category: Applications
+  repo_url: https://github.com/gofireflyio/aiac
+  sub-category: Coding
+- Name: examor
+  category: Applications
+  repo_url: https://github.com/codeacme17/examor
+  sub-category: Education
+- Name: sudolang-llm-support
+  category: Applications
+  repo_url: https://github.com/paralleldrive/sudolang-llm-support
+  sub-category: Coding
+- Name: WikiSQL
+  category: Model development
+  repo_url: https://github.com/salesforce/WikiSQL
+  sub-category: Dataset engineering
+- Name: setfit
+  category: Model development
+  repo_url: https://github.com/huggingface/setfit
+  sub-category: Modeling & training
+- Name: penzai
+  category: Model development
+  repo_url: https://github.com/google-deepmind/penzai
+  sub-category: Modeling & training
+- Name: Fabrik
+  category: Model development
+  repo_url: https://github.com/Cloud-CV/Fabrik
+  sub-category: Modeling & training
+- Name: BIG-bench
+  category: AI engineering
+  repo_url: https://github.com/google/BIG-bench
+  sub-category: Evals
+- Name: scribe
+  category: Applications
+  repo_url: https://github.com/knuckleswtf/scribe
+  sub-category: Coding
+- Name: sweep
+  category: Applications
+  repo_url: https://github.com/sweepai/sweep
+  sub-category: Coding
+- Name: InternLM
+  category: Model repo
+  repo_url: https://github.com/InternLM/InternLM
+  sub-category: Multilingual
+- Name: llm-numbers
+  category: Tutorials
+  repo_url: https://github.com/ray-project/llm-numbers
+  sub-category: .nan
+- Name: AI-Writer
+  category: Applications
+  repo_url: https://github.com/BlinkDL/AI-Writer
+  sub-category: Writing
+- Name: gpt-newspaper
+  category: Applications
+  repo_url: https://github.com/rotemweiss57/gpt-newspaper
+  sub-category: Info aggregation
+- Name: EvalAI
+  category: AI engineering
+  repo_url: https://github.com/Cloud-CV/EvalAI
+  sub-category: Evals
+- Name: deepsparse
+  category: Infrastructure
+  repo_url: https://github.com/neuralmagic/deepsparse
+  sub-category: Serving
+- Name: TTS
+  category: Model development
+  repo_url: https://github.com/mozilla/TTS
+  sub-category: Modeling & training
+- Name: aici
+  category: AI engineering
+  repo_url: https://github.com/microsoft/aici
+  sub-category: Prompt engineering
+- Name: alphatensor
+  category: Model development
+  repo_url: https://github.com/google-deepmind/alphatensor
+  sub-category: Modeling & training
+- Name: llama2-chatbot
+  category: Applications
+  repo_url: https://github.com/a16z-infra/llama2-chatbot
+  sub-category: Bots
+- Name: consistencydecoder
+  category: Model repo
+  repo_url: https://github.com/openai/consistencydecoder
+  sub-category: Multimodal
+- Name: lollms-webui
+  category: AI engineering
+  repo_url: https://github.com/ParisNeo/lollms-webui
+  sub-category: AI interface
+- Name: uptrain
+  category: Infrastructure
+  repo_url: https://github.com/uptrain-ai/uptrain
+  sub-category: Monitoring
+- Name: rag-stack
+  category: AI engineering
+  repo_url: https://github.com/psychic-api/rag-stack
+  sub-category: AIE framework
+- Name: prompt-in-context-learning
+  category: Lists
+  repo_url: https://github.com/EgoAlpha/prompt-in-context-learning
+  sub-category: .nan
+- Name: text-to-text-transfer-transformer
+  category: Model repo
+  repo_url: https://github.com/google-research/text-to-text-transfer-transformer
+  sub-category: .nan
+- Name: RasaGPT
+  category: AI engineering
+  repo_url: https://github.com/paulpierre/RasaGPT
+  sub-category: AIE framework
+- Name: musiclm-pytorch
+  category: Model repo
+  repo_url: https://github.com/lucidrains/musiclm-pytorch
+  sub-category: Multimodal
+- Name: transformer-debugger
+  category: AI engineering
+  repo_url: https://github.com/openai/transformer-debugger
+  sub-category: Evals
+- Name: bilingual_book_maker
+  category: Applications
+  repo_url: https://github.com/yihong0618/bilingual_book_maker
+  sub-category: Workflow automation
+- Name: dedupe
+  category: AI engineering
+  repo_url: https://github.com/dedupeio/dedupe
+  sub-category: Dataset engineering
+- Name: WizardLM
+  category: Model repo
+  repo_url: https://github.com/nlpxucan/WizardLM
+  sub-category: .nan
+- Name: llm
+  category: AI engineering
+  repo_url: https://github.com/rustformers/llm
+  sub-category: AIE framework
+- Name: OmniXAI
+  category: AI engineering
+  repo_url: https://github.com/salesforce/OmniXAI
+  sub-category: Evals
+- Name: gpt-discord-bot
+  category: Applications
+  repo_url: https://github.com/openai/gpt-discord-bot
+  sub-category: Bots
+- Name: AutoChain
+  category: AI engineering
+  repo_url: https://github.com/Forethought-Technologies/AutoChain
+  sub-category: Agent
+- Name: mathematics_dataset
+  category: AI engineering
+  repo_url: https://github.com/google-deepmind/mathematics_dataset
+  sub-category: Dataset engineering
+- Name: LLaMA2-Accessory
+  category: Model development
+  repo_url: https://github.com/Alpha-VLLM/LLaMA2-Accessory
+  sub-category: Modeling & training
+- Name: ctransformers
+  category: AI engineering
+  repo_url: https://github.com/marella/ctransformers
+  sub-category: AIE framework
+- Name: swiss_army_llama
+  category: Applications
+  repo_url: https://github.com/Dicklesworthstone/swiss_army_llama
+  sub-category: Workflow automation
+- Name: lilac
+  category: Model development
+  repo_url: https://github.com/lilacai/lilac
+  sub-category: Dataset engineering
+- Name: dramatron
+  category: Applications
+  repo_url: https://github.com/google-deepmind/dramatron
+  sub-category: Writing
+- Name: automated-interpretability
+  category: AI engineering
+  repo_url: https://github.com/openai/automated-interpretability
+  sub-category: Evals
+- Name: recordlinkage
+  category: AI engineering
+  repo_url: https://github.com/J535D165/recordlinkage
+  sub-category: Dataset engineering
+- Name: DeepPavlov
+  category: AI engineering
+  repo_url: https://github.com/deeppavlov/DeepPavlov
+  sub-category: AIE framework
+- Name: gpt-llm-trainer
+  category: Model development
+  repo_url: https://github.com/mshumer/gpt-llm-trainer
+  sub-category: Dataset engineering
+- Name: magicoder
+  category: Model repo
+  repo_url: https://github.com/ise-uiuc/magicoder
+  sub-category: .nan
+- Name: DeepSeek-VL
+  category: Model repo
+  repo_url: https://github.com/deepseek-ai/DeepSeek-VL
+  sub-category: Multimodal
+- Name: sparseml
+  category: Model development
+  repo_url: https://github.com/neuralmagic/sparseml
+  sub-category: Inference optimization
+- Name: Neighborhood-Attention-Transformer
+  category: Model repo
+  repo_url: https://github.com/SHI-Labs/Neighborhood-Attention-Transformer
+  sub-category: .nan
+- Name: fairscale
+  category: Model development
+  repo_url: https://github.com/facebookresearch/fairscale
+  sub-category: Modeling & training
+- Name: auto-evaluator
+  category: AI engineering
+  repo_url: https://github.com/rlancemartin/auto-evaluator
+  sub-category: Evals
+- Name: Promptify
+  category: AI engineering
+  repo_url: https://github.com/promptslab/Promptify
+  sub-category: Prompt engineering
+- Name: opengpts
+  category: AI engineering
+  repo_url: https://github.com/langchain-ai/opengpts
+  sub-category: AIE framework
+- Name: pytorch3d
+  category: Model development
+  repo_url: https://github.com/facebookresearch/pytorch3d
+  sub-category: Modeling & training
+- Name: modAL
+  category: Model development
+  repo_url: https://github.com/modAL-python/modAL
+  sub-category: Dataset engineering
+- Name: Dromedary
+  category: Model repo
+  repo_url: https://github.com/IBM/Dromedary
+  sub-category: .nan
+- Name: FlexGen
+  category: Infrastructure
+  repo_url: https://github.com/FMInference/FlexGen
+  sub-category: Serving
+- Name: SoraWebui
+  category: Applications
+  repo_url: https://github.com/SoraWebui/SoraWebui
+  sub-category: Bots
+- Name: ChatDoctor
+  category: Applications
+  repo_url: https://github.com/Kent0n-Li/ChatDoctor
+  sub-category: Bots
+- Name: Camel-AutoGPT
+  category: Applications
+  repo_url: https://github.com/SamurAIGPT/Camel-AutoGPT
+  sub-category: Bots
+- Name: following-instructions-human-feedback
+  category: Model repo
+  repo_url: https://github.com/openai/following-instructions-human-feedback
+  sub-category: .nan
+- Name: DI-star
+  category: Applications
+  repo_url: https://github.com/opendilab/DI-star
+  sub-category: Bots
+- Name: multilingual-t5
+  category: Model repo
+  repo_url: https://github.com/google-research/multilingual-t5
+  sub-category: Multilingual
+- Name: weak-to-strong
+  category: Model development
+  repo_url: https://github.com/openai/weak-to-strong
+  sub-category: Modeling & training
+- Name: alpaca-electron
+  category: Applications
+  repo_url: https://github.com/ItsPi3141/alpaca-electron
+  sub-category: Bots
+- Name: cramming
+  category: Model development
+  repo_url: https://github.com/JonasGeiping/cramming
+  sub-category: Modeling & training
+- Name: RestGPT
+  category: AI engineering
+  repo_url: https://github.com/Yifan-Song793/RestGPT
+  sub-category: Agent
+- Name: AGiXT
+  category: AI engineering
+  repo_url: https://github.com/Josh-XT/AGiXT
+  sub-category: Agent
+- Name: deepmind-research
+  category: Model repo
+  repo_url: https://github.com/google-deepmind/deepmind-research
+  sub-category: Agent
+- Name: Versatile-Diffusion
+  category: Model repo
+  repo_url: https://github.com/SHI-Labs/Versatile-Diffusion
+  sub-category: .nan
+- Name: yarn
+  category: Model development
+  repo_url: https://github.com/jquesnelle/yarn
+  sub-category: Modeling & training
+- Name: chatarena
+  category: AI engineering
+  repo_url: https://github.com/Farama-Foundation/chatarena
+  sub-category: Agent
+- Name: nerfacc
+  category: Model development
+  repo_url: https://github.com/nerfstudio-project/nerfacc
+  sub-category: Modeling & training
+- Name: chatgpt-chrome-extension
+  category: Applications
+  repo_url: https://github.com/gragland/chatgpt-chrome-extension
+  sub-category: Bots
+- Name: BMTools
+  category: AI engineering
+  repo_url: https://github.com/OpenBMB/BMTools
+  sub-category: Agent
+- Name: LLMZoo
+  category: AI engineering
+  repo_url: https://github.com/FreedomIntelligence/LLMZoo
+  sub-category: AIE framework
+- Name: RedPajama-Data
+  category: Model development
+  repo_url: https://github.com/togethercomputer/RedPajama-Data
+  sub-category: Dataset engineering
+- Name: Macaw-LLM
+  category: Model repo
+  repo_url: https://github.com/lyuchenyang/Macaw-LLM
+  sub-category: Multimodal
+- Name: thinkgpt
+  category: AI engineering
+  repo_url: https://github.com/jina-ai/thinkgpt
+  sub-category: Agent
+- Name: aidea-server
+  category: AI engineering
+  repo_url: https://github.com/mylxsw/aidea-server
+  sub-category: AI interface
+- Name: GLM
+  category: Model development
+  repo_url: https://github.com/THUDM/GLM
+  sub-category: Modeling & training
+- Name: InternGPT
+  category: AI engineering
+  repo_url: https://github.com/OpenGVLab/InternGPT
+  sub-category: AI interface
+- Name: langchain-serve
+  category: AI engineering
+  repo_url: https://github.com/jina-ai/langchain-serve
+  sub-category: AIE framework
+- Name: kor
+  category: AI engineering
+  repo_url: https://github.com/eyurtsev/kor
+  sub-category: Prompt engineering
+- Name: albert
+  category: Model repo
+  repo_url: https://github.com/google-research/albert
+  sub-category: .nan
+- Name: DevOpsGPT
+  category: Applications
+  repo_url: https://github.com/kuafuai/DevOpsGPT
+  sub-category: Coding
+- Name: TypeChat
+  category: AI engineering
+  repo_url: https://github.com/microsoft/TypeChat
+  sub-category: Prompt engineering
+- Name: CodeGen
+  category: Model repo
+  repo_url: https://github.com/salesforce/CodeGen
+  sub-category: .nan
+- Name: LLM-As-Chatbot
+  category: Applications
+  repo_url: https://github.com/deep-diver/LLM-As-Chatbot
+  sub-category: Bots
+- Name: graph_nets
+  category: Model development
+  repo_url: https://github.com/google-deepmind/graph_nets
+  sub-category: Modeling & training
+- Name: adrenaline
+  category: Applications
+  repo_url: https://github.com/shobrook/adrenaline
+  sub-category: Coding
+- Name: Doctor-Dignity
+  category: Model repo
+  repo_url: https://github.com/llSourcell/Doctor-Dignity
+  sub-category: .nan
+- Name: privacy
+  category: Model development
+  repo_url: https://github.com/tensorflow/privacy
+  sub-category: Modeling & training
+- Name: Auto-GPT-Plugins
+  category: AI engineering
+  repo_url: https://github.com/Significant-Gravitas/Auto-GPT-Plugins
+  sub-category: Agent
+- Name: P-tuning-v2
+  category: Model development
+  repo_url: https://github.com/THUDM/P-tuning-v2
+  sub-category: Modeling & training
+- Name: SolidGPT
+  category: Applications
+  repo_url: https://github.com/AI-Citizen/SolidGPT
+  sub-category: Coding
+- Name: code_contests
+  category: AI engineering
+  repo_url: https://github.com/google-deepmind/code_contests
+  sub-category: Dataset engineering
+- Name: intel-extension-for-transformers
+  category: AI engineering
+  repo_url: https://github.com/intel/intel-extension-for-transformers
+  sub-category: AIE framework
+- Name: BioGPT
+  category: Model repo
+  repo_url: https://github.com/microsoft/BioGPT
+  sub-category: .nan
+- Name: point-e
+  category: Model repo
+  repo_url: https://github.com/openai/point-e
+  sub-category: .nan
+- Name: uda
+  category: Model development
+  repo_url: https://github.com/google-research/uda
+  sub-category: Dataset engineering
+- Name: engshell
+  category: Applications
+  repo_url: https://github.com/emcf/engshell
+  sub-category: Coding
+- Name: Open-Assistant
+  category: Applications
+  repo_url: https://github.com/LAION-AI/Open-Assistant
+  sub-category: Bots
+- Name: chat-with-gpt
+  category: AI engineering
+  repo_url: https://github.com/cogentapps/chat-with-gpt
+  sub-category: AI interface
+- Name: decaNLP
+  category: AI engineering
+  repo_url: https://github.com/salesforce/decaNLP
+  sub-category: Evals
+- Name: JittorLLMs
+  category: Model development
+  repo_url: https://github.com/Jittor/JittorLLMs
+  sub-category: Inference optimization
+- Name: composer
+  category: Model development
+  repo_url: https://github.com/mosaicml/composer
+  sub-category: Modeling & training
+- Name: FreedomGPT
+  category: Applications
+  repo_url: https://github.com/ohmplatform/FreedomGPT
+  sub-category: Bots
+- Name: LongLoRA
+  category: Model repo
+  repo_url: https://github.com/dvlab-research/LongLoRA
+  sub-category: .nan
+- Name: galai
+  category: Model repo
+  repo_url: https://github.com/paperswithcode/galai
+  sub-category: .nan
+- Name: RealChar
+  category: AI engineering
+  repo_url: https://github.com/Shaunwei/RealChar
+  sub-category: AI interface
+- Name: higgsfield
+  category: Infrastructure
+  repo_url: https://github.com/higgsfield-ai/higgsfield
+  sub-category: Compute management
+- Name: Chinese-LLaMA-Alpaca-2
+  category: Model repo
+  repo_url: https://github.com/ymcui/Chinese-LLaMA-Alpaca-2
+  sub-category: Multilingual
+- Name: imagen-pytorch
+  category: Model repo
+  repo_url: https://github.com/lucidrains/imagen-pytorch
+  sub-category: Multimodal
+- Name: warp-ctc
+  category: Model development
+  repo_url: https://github.com/baidu-research/warp-ctc
+  sub-category: Modeling & training
+- Name: GraphGPT
+  category: Applications
+  repo_url: https://github.com/varunshenoy/GraphGPT
+  sub-category: Coding
+- Name: ChatRWKV
+  category: Applications
+  repo_url: https://github.com/BlinkDL/ChatRWKV
+  sub-category: Bots
+- Name: DragGAN
+  category: Model repo
+  repo_url: https://github.com/OpenGVLab/DragGAN
+  sub-category: Multimodal
+- Name: stable-diffusion-webui-colab
+  category: Applications
+  repo_url: https://github.com/camenduru/stable-diffusion-webui-colab
+  sub-category: Image production
+- Name: promptr
+  category: Applications
+  repo_url: https://github.com/ferrislucas/promptr
+  sub-category: Coding
+- Name: Xwin-LM
+  category: Model repo
+  repo_url: https://github.com/Xwin-LM/Xwin-LM
+  sub-category: .nan
+- Name: LlamaGym
+  category: Model development
+  repo_url: https://github.com/KhoomeiK/LlamaGym
+  sub-category: Modeling & training
+- Name: YaYi
+  category: Model repo
+  repo_url: https://github.com/wenge-research/YaYi
+  sub-category: Multilingual
+- Name: Sophia
+  category: Model development
+  repo_url: https://github.com/Liuhong99/Sophia
+  sub-category: Modeling & training
+- Name: openprompt.co
+  category: Lists
+  repo_url: https://github.com/timqian/openprompt.co
+  sub-category: Prompt engineering
+- Name: PandaLM
+  category: AI engineering
+  repo_url: https://github.com/WeOpenML/PandaLM
+  sub-category: Evals
+- Name: audio-ai-timeline
+  category: Lists
+  repo_url: https://github.com/archinetai/audio-ai-timeline
+  sub-category: .nan
+- Name: languagemodels
+  category: Applications
+  repo_url: https://github.com/jncraton/languagemodels
+  sub-category: Bots
+- Name: awesome-gpts
+  category: Lists
+  repo_url: https://github.com/taranjeet/awesome-gpts
+  sub-category: .nan
+- Name: chameleon-llm
+  category: AI engineering
+  repo_url: https://github.com/lupantech/chameleon-llm
+  sub-category: Agent
+- Name: FastEdit
+  category: AI engineering
+  repo_url: https://github.com/hiyouga/FastEdit
+  sub-category: Prompt engineering
+- Name: RPG-DiffusionMaster
+  category: AI engineering
+  repo_url: https://github.com/YangLing0818/RPG-DiffusionMaster
+  sub-category: AIE framework
+- Name: chatgpt-exporter
+  category: Tutorials
+  repo_url: https://github.com/pionxzh/chatgpt-exporter
+  sub-category: .nan
+- Name: ix
+  category: AI engineering
+  repo_url: https://github.com/kreneskyp/ix
+  sub-category: Agent
+- Name: react-agent
+  category: Applications
+  repo_url: https://github.com/eylonmiz/react-agent
+  sub-category: Coding
+- Name: dev-gpt
+  category: Applications
+  repo_url: https://github.com/jina-ai/dev-gpt
+  sub-category: Coding
+- Name: how2
+  category: Applications
+  repo_url: https://github.com/santinic/how2
+  sub-category: Coding
+- Name: nextpy
+  category: AI engineering
+  repo_url: https://github.com/dot-agent/nextpy
+  sub-category: Agent
+- Name: unlocking-the-power-of-llms
+  category: Tutorials
+  repo_url: https://github.com/howl-anderson/unlocking-the-power-of-llms
+  sub-category: .nan
+- Name: lm-human-preferences
+  category: Model repo
+  repo_url: https://github.com/openai/lm-human-preferences
+  sub-category: .nan
+- Name: bsuite
+  category: AI engineering
+  repo_url: https://github.com/google-deepmind/bsuite
+  sub-category: Evals
+- Name: TigerBot
+  category: Model repo
+  repo_url: https://github.com/TigerResearch/TigerBot
+  sub-category: Multilingual
+- Name: Chinese-Llama-2-7b
+  category: Model repo
+  repo_url: https://github.com/LinkSoul-AI/Chinese-Llama-2-7b
+  sub-category: Multilingual
+- Name: ctrl
+  category: Model development
+  repo_url: https://github.com/salesforce/ctrl
+  sub-category: Modeling & training
+- Name: tapas
+  category: Model repo
+  repo_url: https://github.com/google-research/tapas
+  sub-category: Multimodal
+- Name: simhash
+  category: AI engineering
+  repo_url: https://github.com/1e0ng/simhash
+  sub-category: Dataset engineering
+- Name: scispacy
+  category: Model repo
+  repo_url: https://github.com/allenai/scispacy
+  sub-category: .nan
+- Name: backend-GPT
+  category: Applications
+  repo_url: https://github.com/RootbeerComputer/backend-GPT
+  sub-category: Coding
+- Name: jepa
+  category: Model repo
+  repo_url: https://github.com/facebookresearch/jepa
+  sub-category: .nan
+- Name: evadb
+  category: Applications
+  repo_url: https://github.com/georgia-tech-db/evadb
+  sub-category: Coding
+- Name: MiniGemini
+  category: Model repo
+  repo_url: https://github.com/dvlab-research/MiniGemini
+  sub-category: Multimodal
+- Name: mini-agi
+  category: AI engineering
+  repo_url: https://github.com/muellerberndt/mini-agi
+  sub-category: Agent
+- Name: lazynlp
+  category: Model development
+  repo_url: https://github.com/chiphuyen/lazynlp
+  sub-category: Dataset engineering
+- Name: text
+  category: Model development
+  repo_url: https://github.com/tensorflow/text
+  sub-category: Dataset engineering
+- Name: olivia
+  category: Applications
+  repo_url: https://github.com/olivia-ai/olivia
+  sub-category: Bots
+- Name: nofwl
+  category: Applications
+  repo_url: https://github.com/lencx/nofwl
+  sub-category: Bots
+- Name: FlagAI
+  category: Model development
+  repo_url: https://github.com/FlagAI-Open/FlagAI
+  sub-category: Modeling & training
+- Name: grok
+  category: Model repo
+  repo_url: https://github.com/openai/grok
+  sub-category: .nan
+- Name: gpt3-sandbox
+  category: AI engineering
+  repo_url: https://github.com/shreyashankar/gpt3-sandbox
+  sub-category: Prompt engineering
+- Name: Feishu-OpenAI
+  category: Applications
+  repo_url: https://github.com/ConnectAI-E/Feishu-OpenAI
+  sub-category: Bots
+- Name: OpenChatKit
+  category: AI engineering
+  repo_url: https://github.com/togethercomputer/OpenChatKit
+  sub-category: AIE framework
+- Name: chatgpt-clone
+  category: Applications
+  repo_url: https://github.com/xtekky/chatgpt-clone
+  sub-category: Bots
+- Name: MOSS
+  category: Model repo
+  repo_url: https://github.com/OpenMOSS/MOSS
+  sub-category: Agent
+- Name: chatgpt-google-extension
+  category: Applications
+  repo_url: https://github.com/wong2/chatgpt-google-extension
+  sub-category: Bots
+- Name: plugins-quickstart
+  category: AI engineering
+  repo_url: https://github.com/openai/plugins-quickstart
+  sub-category: AI interface
+- Name: Bard-API
+  category: AI engineering
+  repo_url: https://github.com/dsdanielpark/Bard-API
+  sub-category: AI interface
+- Name: dbrx
+  category: Model repo
+  repo_url: https://github.com/databricks/dbrx
+  sub-category: .nan
+- Name: electra
+  category: Model repo
+  repo_url: https://github.com/google-research/electra
+  sub-category: .nan
+- Name: BingGPT
+  category: Applications
+  repo_url: https://github.com/dice2o/BingGPT
+  sub-category: Bots
+- Name: ai-code-translator
+  category: Applications
+  repo_url: https://github.com/mckaywrigley/ai-code-translator
+  sub-category: Coding
+- Name: glide-text2im
+  category: Model repo
+  repo_url: https://github.com/openai/glide-text2im
+  sub-category: Multimodal
+- Name: state-of-open-source-ai
+  category: Tutorials
+  repo_url: https://github.com/premAI-io/state-of-open-source-ai
+  sub-category: .nan
+- Name: loopgpt
+  category: AI engineering
+  repo_url: https://github.com/farizrahman4u/loopgpt
+  sub-category: Agent
+- Name: ai-legion
+  category: AI engineering
+  repo_url: https://github.com/eumemic/ai-legion
+  sub-category: Agent
+- Name: Chat-with-Github-Repo
+  category: Applications
+  repo_url: https://github.com/peterw/Chat-with-Github-Repo
+  sub-category: Coding
+- Name: simple-llm-finetuner
+  category: Model development
+  repo_url: https://github.com/lxe/simple-llm-finetuner
+  sub-category: Modeling & training
+- Name: control-flag
+  category: Model development
+  repo_url: https://github.com/IntelLabs/control-flag
+  sub-category: Dataset engineering
+- Name: mokuro
+  category: Applications
+  repo_url: https://github.com/kha-white/mokuro
+  sub-category: Info aggregation
+- Name: S-LoRA
+  category: Infrastructure
+  repo_url: https://github.com/S-LoRA/S-LoRA
+  sub-category: Serving
+- Name: NaLLM
+  category: Applications
+  repo_url: https://github.com/neo4j/NaLLM
+  sub-category: Data organization
+- Name: punica
+  category: Infrastructure
+  repo_url: https://github.com/punica-ai/punica
+  sub-category: Serving
+- Name: rwkv.cpp
+  category: Model development
+  repo_url: https://github.com/saharNooby/rwkv.cpp
+  sub-category: Inference optimization
+- Name: InternImage
+  category: Model repo
+  repo_url: https://github.com/OpenGVLab/InternImage
+  sub-category: Multimodal
+- Name: mmpretrain
+  category: Model development
+  repo_url: https://github.com/open-mmlab/mmpretrain
+  sub-category: Modeling & training
+- Name: frame-interpolation
+  category: Model repo
+  repo_url: https://github.com/google-research/frame-interpolation
+  sub-category: Multimodal
+- Name: Huatuo-Llama-Med-Chinese
+  category: Model repo
+  repo_url: https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese
+  sub-category: .nan
+- Name: langui
+  category: AI engineering
+  repo_url: https://github.com/ahmadbilaldev/langui
+  sub-category: AI interface
+- Name: llm-applications
+  category: Tutorials
+  repo_url: https://github.com/ray-project/llm-applications
+  sub-category: .nan
+- Name: agents
+  category: AI engineering
+  repo_url: https://github.com/aiwaves-cn/agents
+  sub-category: Agent
+- Name: autodoc
+  category: Applications
+  repo_url: https://github.com/context-labs/autodoc
+  sub-category: Coding
+- Name: AI4Animation
+  category: AI engineering
+  repo_url: https://github.com/sebastianstarke/AI4Animation
+  sub-category: AI interface
+- Name: HVM
+  category: Infrastructure
+  repo_url: https://github.com/HigherOrderCO/HVM
+  sub-category: Toolings
+- Name: Otter
+  category: Model repo
+  repo_url: https://github.com/Luodian/Otter
+  sub-category: Multimodal
+- Name: llm-workflow-engine
+  category: AI engineering
+  repo_url: https://github.com/llm-workflow-engine/llm-workflow-engine
+  sub-category: AIE framework
+- Name: chatgpt-web
+  category: Applications
+  repo_url: https://github.com/Chanzhaoyu/chatgpt-web
+  sub-category: Bots
+- Name: Learn_Prompting
+  category: Tutorials
+  repo_url: https://github.com/trigaten/Learn_Prompting
+  sub-category: .nan
+- Name: open_llama
+  category: Model repo
+  repo_url: https://github.com/openlm-research/open_llama
+  sub-category: .nan
+- Name: gpt-author
+  category: Applications
+  repo_url: https://github.com/mshumer/gpt-author
+  sub-category: Writing
+- Name: lit-llama
+  category: Model repo
+  repo_url: https://github.com/Lightning-AI/lit-llama
+  sub-category: .nan
+- Name: wukong-robot
+  category: AI engineering
+  repo_url: https://github.com/wzpan/wukong-robot
+  sub-category: AI interface
+- Name: PaLM-rlhf-pytorch
+  category: Model repo
+  repo_url: https://github.com/lucidrains/PaLM-rlhf-pytorch
+  sub-category: .nan
+- Name: lanarky
+  category: Infrastructure
+  repo_url: https://github.com/ajndkr/lanarky
+  sub-category: Toolings
+- Name: chatglm.cpp
+  category: Model development
+  repo_url: https://github.com/li-plus/chatglm.cpp
+  sub-category: Inference optimization
+- Name: databerry
+  category: AI engineering
+  repo_url: https://github.com/gmpetrov/databerry
+  sub-category: Agent
+- Name: Chinese-Vicuna
+  category: Model repo
+  repo_url: https://github.com/Facico/Chinese-Vicuna
+  sub-category: Multilingual
+- Name: YAYI2
+  category: Model repo
+  repo_url: https://github.com/wenge-research/YAYI2
+  sub-category: Multilingual
+- Name: lamini
+  category: Model development
+  repo_url: https://github.com/lamini-ai/lamini
+  sub-category: Modeling & training
+- Name: smartgpt
+  category: Applications
+  repo_url: https://github.com/Cormanz/smartgpt
+  sub-category: Workflow automation
+- Name: CodeTF
+  category: Model development
+  repo_url: https://github.com/salesforce/CodeTF
+  sub-category: Modeling & training
+- Name: langcorn
+  category: Infrastructure
+  repo_url: https://github.com/msoedov/langcorn
+  sub-category: Serving
+- Name: manga-ocr
+  category: Applications
+  repo_url: https://github.com/kha-white/manga-ocr
+  sub-category: Info aggregation
+- Name: chathub
+  category: AI engineering
+  repo_url: https://github.com/chathub-dev/chathub
+  sub-category: AI interface
+- Name: openplayground
+  category: AI engineering
+  repo_url: https://github.com/nat/openplayground
+  sub-category: AI interface
+- Name: ChatGPT-AutoExpert
+  category: AI engineering
+  repo_url: https://github.com/spdustin/ChatGPT-AutoExpert
+  sub-category: Prompt engineering
+- Name: ChatGPT-Shortcut
+  category: AI engineering
+  repo_url: https://github.com/rockbenben/ChatGPT-Shortcut
+  sub-category: Prompt engineering
+- Name: FreeAskInternet
+  category: Applications
+  repo_url: https://github.com/nashsu/FreeAskInternet
+  sub-category: Info aggregation
+- Name: OpenAI_Agent_Swarm
+  category: Applications
+  repo_url: https://github.com/daveshap/OpenAI_Agent_Swarm
+  sub-category: Workflow automation
+- Name: dalle-mini
+  category: Model repo
+  repo_url: https://github.com/borisdayma/dalle-mini
+  sub-category: Multimodal
+- Name: devika
+  category: Applications
+  repo_url: https://github.com/stitionai/devika
+  sub-category: Coding

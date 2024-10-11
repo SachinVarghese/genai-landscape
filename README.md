@@ -1,1 +1,1 @@
-# genai-landscape
+# Generative AI Landscape
